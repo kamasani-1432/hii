@@ -1,0 +1,1001 @@
+Location,Latitude,Longitude,Historical_Crime_Count,Reported_Danger_Level,Time_of_Day,Weather_Conditions,Population_Density,Nearby_Facilities,User_Reported_Danger_Level,Age_Group
+Tambaram,13.149964269113397,80.27235838931232,19,High,Afternoon,Foggy,High,9,Low,Child
+T Nagar,12.986906949930876,80.02988619086416,17,Low,Afternoon,Rainy,Medium,0,Medium,Adult
+Chengalpattu,13.186053653879288,80.02029436660666,10,High,Afternoon,Clear,High,7,Low,Child
+Guindy,12.887869701251313,80.26919882201432,10,High,Evening,Clear,High,7,Medium,Adult
+Anna Nagar,13.077714483913772,80.09858730522875,17,Medium,Night,Rainy,High,0,Low,Child
+Thiruvanmiyur,13.180705449682936,80.25093764273876,18,Medium,Afternoon,Foggy,Low,4,Low,Adult
+T Nagar,12.971747346745943,80.08351975939755,16,High,Evening,Rainy,Low,2,Medium,Senior
+Velachery,13.069285859460267,80.11182629395839,10,Low,Afternoon,Clear,Medium,2,High,Adult
+Adyar,12.954282372033676,80.21947040379347,18,High,Evening,Rainy,High,5,Medium,Child
+Anna Nagar,12.917582466226573,80.26301605819658,14,High,Afternoon,Rainy,Low,2,Extreme,Teen
+Chengalpattu,13.03504701198761,80.08980925236864,12,Medium,Afternoon,Foggy,Medium,3,Medium,Adult
+Nungambakkam,12.966484979599887,80.14295178476992,15,Medium,Afternoon,Clear,Low,8,High,Adult
+Perungudi,12.988203044021313,80.29497153216941,15,Extreme,Evening,Snowy,High,5,Medium,Senior
+Velachery,12.986122850785888,80.24995454140915,10,Medium,Morning,Clear,Medium,8,Medium,Senior
+Velachery,12.937701297362533,80.20183388821262,20,Medium,Evening,Snowy,Medium,1,Medium,Senior
+Sholinganallur,12.910042931228086,80.23645598849079,16,Extreme,Morning,Rainy,Low,3,Low,Teen
+Perungudi,13.197705285019724,80.10464815773969,10,Medium,Afternoon,Foggy,Low,5,Low,Senior
+Nungambakkam,12.830475345187695,80.02903930571951,13,Medium,Night,Rainy,High,9,Extreme,Senior
+Nungambakkam,12.80995958885021,80.18302833129958,14,High,Evening,Rainy,High,7,Extreme,Child
+T Nagar,12.85645244473027,80.1230501626591,18,Low,Afternoon,Clear,Medium,3,Extreme,Adult
+Tambaram,13.047277202067493,80.16830800809232,16,Extreme,Morning,Snowy,Low,1,Medium,Teen
+Perungudi,13.081789277552124,80.13069858213542,13,Medium,Afternoon,Rainy,Medium,2,Medium,Teen
+Anna Nagar,12.857439233953885,80.2011476808606,17,Medium,Evening,Rainy,Medium,9,Low,Child
+Velachery,12.973773407570864,80.23259373891356,11,High,Night,Foggy,Low,4,Medium,Adult
+Mylapore,12.906735122505768,80.16993561620359,21,Low,Morning,Rainy,High,3,Low,Adult
+Potheri,13.16238437344703,80.1265070381273,16,High,Evening,Clear,Low,0,Medium,Senior
+Guindy,13.098207034512136,80.12184913400776,17,High,Evening,Clear,Low,8,Medium,Senior
+Velachery,13.046469732655757,80.25768511576905,15,Extreme,Evening,Foggy,High,8,High,Child
+T Nagar,12.96934508572573,80.0247763565659,19,High,Night,Clear,Medium,3,Low,Child
+Chengalpattu,12.93590780411998,80.0848567555963,23,Extreme,Morning,Rainy,Medium,8,High,Child
+Adyar,12.903405042844883,80.10615219301859,12,Low,Night,Rainy,Medium,3,High,Senior
+Velachery,12.903896953336583,80.14618906178221,13,Low,Evening,Rainy,Medium,4,Extreme,Adult
+Mylapore,12.815442248586157,80.17432172810753,13,Medium,Afternoon,Rainy,High,8,High,Adult
+Chengalpattu,13.10983512758949,80.14213268492905,9,Extreme,Morning,Rainy,Medium,2,High,Adult
+Nungambakkam,13.099681707722365,80.00715258821529,15,Extreme,Afternoon,Rainy,Medium,2,Extreme,Senior
+Anna Nagar,13.068625502450384,80.2027603688399,15,Extreme,Night,Snowy,High,3,Low,Adult
+T Nagar,12.85780013494272,80.00536748002746,16,High,Morning,Clear,Medium,4,Extreme,Teen
+Sholinganallur,13.05392304629354,80.28065521540289,14,Medium,Evening,Snowy,High,4,Extreme,Child
+Adyar,13.09711365904059,80.22252611407349,16,Extreme,Night,Snowy,Low,8,High,Adult
+Nungambakkam,12.864291902977726,80.23240281215163,20,Low,Evening,Clear,Medium,6,High,Adult
+Adyar,13.015964135492124,80.07043564097913,23,Medium,Morning,Clear,Medium,3,Extreme,Child
+Velachery,12.961707703977671,80.16604349254122,16,Extreme,Afternoon,Snowy,High,3,Low,Teen
+Anna Nagar,13.049115411511123,80.13830044992389,11,Medium,Night,Clear,High,6,Medium,Teen
+Sholinganallur,12.858354494407383,80.2643322718721,15,Low,Afternoon,Clear,High,1,Extreme,Child
+Sholinganallur,13.17795262364937,80.17245354881298,9,Medium,Afternoon,Foggy,High,7,Extreme,Teen
+Thiruvanmiyur,13.188578653467225,80.19229176101946,16,Extreme,Afternoon,Clear,High,6,Extreme,Adult
+Thiruvanmiyur,12.857284311327167,80.00323912111956,19,Extreme,Morning,Snowy,High,3,High,Adult
+T Nagar,12.958691651201379,80.22934825707405,12,High,Evening,Rainy,High,5,Low,Teen
+Sholinganallur,13.11022116714925,80.2414671847028,16,Extreme,Night,Clear,High,5,Extreme,Teen
+Velachery,13.000914683429265,80.07844343258515,10,High,Night,Rainy,High,0,Medium,Teen
+Guindy,12.934867124565152,80.26466552742097,18,Low,Morning,Foggy,High,1,Low,Child
+Tambaram,12.92041626628831,80.1340051146011,15,Low,Night,Clear,High,7,Medium,Teen
+T Nagar,13.014615943740845,80.02552922787528,20,Extreme,Morning,Snowy,Low,4,Extreme,Senior
+Guindy,13.108393470287664,80.26871063560404,13,Medium,Evening,Foggy,Medium,9,Extreme,Teen
+Guindy,13.189772260595237,80.2426515142288,13,Medium,Evening,Snowy,Medium,3,Medium,Senior
+Sholinganallur,12.87274410856039,80.08609834289227,19,High,Night,Foggy,High,4,High,Teen
+Tambaram,12.878015482229982,80.2706209039193,8,Medium,Evening,Snowy,High,3,Low,Adult
+Mylapore,13.160542613739626,80.22283969621095,13,Extreme,Night,Snowy,Medium,0,Low,Adult
+Thiruvanmiyur,12.926511540090415,80.2983823423827,19,Low,Night,Clear,High,1,Extreme,Child
+Anna Nagar,13.14673284351686,80.17841829935033,16,Extreme,Morning,Rainy,High,8,Medium,Senior
+Potheri,12.977673807584155,80.07564244921328,10,Low,Night,Snowy,Medium,6,High,Child
+Adyar,12.80618022932031,80.13927137014727,14,High,Night,Snowy,Low,2,High,Adult
+T Nagar,12.816854742923452,80.01020031318001,8,Extreme,Morning,Snowy,High,2,Medium,Teen
+Tambaram,12.974593128474748,80.19704180873178,12,Low,Night,Foggy,Medium,2,Low,Child
+Tambaram,13.174792749709923,80.10665257222429,18,Medium,Morning,Clear,High,5,Medium,Senior
+Mylapore,13.028268539239313,80.22101968098879,20,Low,Evening,Clear,Low,6,High,Child
+Thiruvanmiyur,12.907040742641586,80.15290398055582,12,High,Morning,Foggy,Low,2,Low,Teen
+Thiruvanmiyur,12.866741850458585,80.1865117320444,12,Low,Afternoon,Clear,Medium,3,Low,Adult
+Thiruvanmiyur,13.046067610166219,80.031300062301,16,Extreme,Evening,Snowy,High,1,Extreme,Teen
+Velachery,13.095983195076291,80.08050636842002,19,High,Morning,Clear,Low,1,Medium,Adult
+Mylapore,12.99898745283562,80.06866386151839,12,Medium,Afternoon,Rainy,High,8,Low,Adult
+Tambaram,12.934704723272361,80.1783271820941,16,Low,Afternoon,Snowy,High,7,Low,Child
+Guindy,12.810738306880086,80.28359483477826,15,Extreme,Morning,Foggy,Medium,1,Extreme,Senior
+Perungudi,13.139066072503512,80.07795236479886,18,Medium,Evening,Clear,High,1,Extreme,Adult
+Perungudi,12.85589586795453,80.23377325705492,8,High,Afternoon,Snowy,High,7,High,Child
+Velachery,13.02073269689459,80.28967588648413,15,Low,Morning,Foggy,Medium,0,Low,Senior
+Chengalpattu,13.111091319184988,80.05212451218863,14,High,Evening,Rainy,Medium,0,Medium,Teen
+Chengalpattu,13.0576378161636,80.16666606923592,6,Extreme,Morning,Snowy,Low,9,Low,Adult
+Nungambakkam,12.805243508593705,80.07709918765939,11,Extreme,Morning,Snowy,High,7,Low,Senior
+T Nagar,12.917249486992104,80.0854510771823,14,High,Morning,Clear,High,9,Low,Senior
+Potheri,13.074277195554213,80.16027022045442,13,Extreme,Night,Snowy,High,9,Medium,Senior
+T Nagar,13.179075855879923,80.21857601988228,22,High,Morning,Foggy,High,0,Extreme,Adult
+Perungudi,12.892436570461301,80.18724865549994,14,Extreme,Afternoon,Snowy,Low,4,Medium,Senior
+Thiruvanmiyur,12.954100260601747,80.27079410876107,12,Low,Evening,Clear,Low,0,Extreme,Senior
+Perungudi,12.969136062684811,80.27654481740878,15,Medium,Evening,Rainy,Medium,4,Low,Adult
+Sholinganallur,13.193556060685333,80.19119458348077,8,Medium,Morning,Rainy,Medium,2,High,Child
+Anna Nagar,12.847892753419002,80.19053664400643,24,High,Afternoon,Rainy,High,0,High,Teen
+Anna Nagar,12.977842046314343,80.07889129764152,12,Low,Evening,Foggy,High,5,Medium,Child
+Chengalpattu,13.187230816440662,80.11705984217214,14,Medium,Night,Snowy,Medium,5,Medium,Senior
+Sholinganallur,13.04267335075373,80.09715896255963,16,Low,Morning,Foggy,Medium,7,Low,Adult
+Thiruvanmiyur,12.92618765182256,80.0599729701365,18,Low,Afternoon,Clear,Medium,6,Low,Child
+Mylapore,12.986996759278544,80.04964073341041,23,Low,Night,Foggy,Medium,3,High,Senior
+Chengalpattu,12.934489143564518,80.26223286868485,13,Low,Morning,Snowy,High,1,Low,Senior
+Thiruvanmiyur,12.996297854397417,80.21170829664553,15,High,Evening,Clear,Medium,0,Medium,Adult
+Potheri,12.994579499561864,80.27392024419709,13,High,Night,Foggy,Low,5,High,Senior
+T Nagar,13.051637702348845,80.15059648550206,20,Medium,Night,Rainy,Low,7,Extreme,Adult
+Thiruvanmiyur,12.88185635038738,80.2142849613467,15,Medium,Night,Clear,High,6,Extreme,Teen
+Thiruvanmiyur,13.043432143898244,80.21793915010575,9,High,Night,Foggy,Medium,7,High,Child
+Velachery,12.946072696724526,80.08657947284955,15,High,Evening,Foggy,High,0,High,Adult
+Potheri,12.977837488968218,80.04641310908242,14,Medium,Evening,Rainy,Low,8,Low,Child
+Anna Nagar,13.13674496092396,80.16403086258217,15,Low,Evening,Snowy,High,9,Extreme,Adult
+Mylapore,13.093145532016548,80.06046126240416,13,Low,Afternoon,Rainy,Medium,1,Extreme,Teen
+Velachery,12.836825731469474,80.12687255320395,18,Extreme,Night,Snowy,High,0,High,Adult
+Anna Nagar,13.00584044723935,80.20827376068752,20,Extreme,Night,Rainy,Low,5,Medium,Adult
+Nungambakkam,12.820032059263458,80.17570110361945,15,High,Afternoon,Foggy,Medium,2,High,Adult
+Velachery,12.990520024322755,80.00784081280398,17,Low,Evening,Snowy,High,5,Low,Senior
+Thiruvanmiyur,12.913232584438694,80.28262938429998,12,High,Morning,Foggy,High,8,Extreme,Child
+Chengalpattu,13.124681961427903,80.10866701665718,21,High,Night,Foggy,Low,7,High,Senior
+Anna Nagar,12.831937437425118,80.13980548904783,15,Medium,Evening,Clear,Medium,3,High,Child
+Thiruvanmiyur,12.83819148545506,80.04286076107904,16,High,Morning,Clear,Medium,8,Medium,Teen
+Thiruvanmiyur,12.807304237020853,80.02580731147683,19,Low,Evening,Rainy,High,5,High,Teen
+Adyar,12.85531373384181,80.01234155360656,9,Extreme,Morning,Rainy,Low,0,Medium,Child
+Adyar,13.064002994084605,80.02152742190856,15,Low,Night,Rainy,High,2,High,Adult
+Anna Nagar,13.109180155530412,80.24646277584891,15,Medium,Afternoon,Clear,Medium,6,Extreme,Teen
+Guindy,12.914361280814935,80.24780678157929,8,Medium,Afternoon,Rainy,Low,4,Medium,Child
+Thiruvanmiyur,12.91819261837482,80.16163751529116,13,Extreme,Morning,Rainy,Medium,1,Medium,Senior
+Thiruvanmiyur,13.197472965142284,80.02117558643661,19,Extreme,Night,Rainy,High,5,Medium,Teen
+T Nagar,12.924473263976981,80.11515246802671,14,Medium,Evening,Rainy,Medium,1,High,Adult
+Perungudi,12.8309301195256,80.06212241139366,17,Extreme,Night,Snowy,Medium,4,Extreme,Adult
+T Nagar,12.985572833562603,80.0331602125667,13,High,Night,Snowy,Low,0,Low,Child
+Perungudi,13.002801404492615,80.26271292632754,16,Extreme,Evening,Foggy,High,7,Low,Child
+Sholinganallur,13.115745386658137,80.22887046161026,19,Medium,Morning,Snowy,High,0,High,Senior
+Tambaram,12.855776630298168,80.17657749662177,12,Medium,Afternoon,Clear,Low,5,Extreme,Senior
+Anna Nagar,13.050418871597424,80.22462731931265,15,Low,Night,Snowy,Medium,8,Low,Senior
+Mylapore,12.981905173196804,80.18156938323165,8,Medium,Night,Foggy,Medium,6,Medium,Child
+Perungudi,13.123323566468422,80.00888584431937,20,Medium,Evening,Foggy,Low,9,High,Teen
+Chengalpattu,12.803155502087517,80.12151306190114,16,Low,Afternoon,Foggy,Low,7,Low,Senior
+Adyar,13.057699224808712,80.16342111613933,10,High,Night,Rainy,High,7,Extreme,Adult
+Adyar,13.117005108393295,80.17818115823222,7,High,Night,Snowy,Low,9,Extreme,Senior
+Potheri,12.920829417929333,80.20744966904473,11,Extreme,Morning,Foggy,Medium,9,Low,Teen
+Thiruvanmiyur,12.923449275502959,80.04061859337284,15,Extreme,Afternoon,Clear,Low,2,Low,Senior
+Guindy,12.910871887107184,80.22051945307929,23,High,Night,Rainy,High,3,Low,Child
+Potheri,12.84382429119671,80.01850475060431,13,Extreme,Afternoon,Clear,Low,1,Medium,Senior
+Adyar,12.970295886320883,80.26490653736708,10,Extreme,Morning,Foggy,Medium,7,Low,Adult
+Guindy,12.868148956319073,80.04807363195935,7,Low,Morning,Clear,Low,7,Low,Child
+Sholinganallur,12.831482113096396,80.12982809689775,20,High,Afternoon,Snowy,Low,8,Medium,Adult
+Anna Nagar,12.99973055261558,80.16319612706303,19,High,Evening,Clear,Low,5,Medium,Child
+Sholinganallur,12.852493641614574,80.15975814832619,12,Extreme,Evening,Snowy,High,2,Low,Adult
+Guindy,13.032078915087203,80.07140949356958,14,Low,Afternoon,Clear,Low,3,Extreme,Senior
+Anna Nagar,12.933548664559803,80.11968133210347,15,Low,Night,Rainy,Medium,9,Extreme,Teen
+Guindy,12.832961917776553,80.1379455296959,16,Extreme,Night,Clear,Low,2,High,Child
+Mylapore,12.876298521645843,80.2938205516944,12,Medium,Night,Rainy,Low,1,Medium,Child
+Adyar,12.847268771566407,80.25473056961327,18,Low,Afternoon,Rainy,Low,5,Medium,Teen
+Anna Nagar,12.809320526926037,80.0744399419472,7,High,Afternoon,Foggy,Low,3,Extreme,Child
+Perungudi,12.887491456678566,80.07644726624432,18,Medium,Evening,Snowy,Low,3,Low,Teen
+Adyar,12.928271780263815,80.23759122413264,8,Extreme,Morning,Clear,Low,2,Low,Senior
+Perungudi,12.964338676220299,80.25612416127375,12,High,Morning,Clear,Medium,2,Extreme,Child
+Tambaram,12.930084991738298,80.10400563320904,12,Medium,Morning,Snowy,Low,5,Low,Senior
+Tambaram,12.837455819698459,80.02075890915788,15,Extreme,Night,Snowy,High,5,Low,Senior
+Sholinganallur,13.149038904390494,80.1651232037595,16,High,Afternoon,Foggy,Medium,0,Extreme,Child
+Perungudi,12.881846237160193,80.00072074933473,13,Medium,Afternoon,Rainy,Medium,6,Extreme,Child
+Sholinganallur,12.890796560073413,80.18657699035451,9,High,Afternoon,Clear,Low,0,Extreme,Senior
+Sholinganallur,12.883050093391995,80.18816417732164,6,Medium,Morning,Clear,Low,9,Medium,Child
+Anna Nagar,13.078207175504614,80.27868407153336,22,Low,Afternoon,Clear,Medium,2,Medium,Teen
+Perungudi,12.909571867370692,80.16282032476751,13,Medium,Morning,Foggy,Medium,3,High,Senior
+Adyar,13.183048600556708,80.16696578756803,16,High,Afternoon,Foggy,Medium,2,Low,Senior
+Sholinganallur,12.991052518227537,80.11508450130395,16,Medium,Morning,Rainy,High,7,Extreme,Teen
+Mylapore,13.127551319111333,80.25854560372994,22,High,Afternoon,Clear,High,6,High,Teen
+Anna Nagar,12.971680657378233,80.28362883714868,9,Low,Night,Clear,High,3,Medium,Teen
+Nungambakkam,13.172751302404286,80.26108061556664,14,Medium,Afternoon,Snowy,Low,4,High,Adult
+Nungambakkam,12.997296598643349,80.29520866931787,12,Medium,Afternoon,Foggy,Medium,1,Medium,Teen
+T Nagar,13.05021490764344,80.26556048666845,12,Medium,Afternoon,Snowy,High,1,High,Teen
+Tambaram,13.140185346968812,80.2270962067525,13,Medium,Evening,Snowy,High,8,Medium,Child
+Tambaram,12.804133641215914,80.16019096798408,20,Medium,Night,Clear,High,9,High,Senior
+Velachery,13.071036003341053,80.02768211042618,19,Medium,Evening,Clear,Low,5,Medium,Adult
+Guindy,12.826752697190598,80.29115166677417,10,Medium,Night,Clear,Low,1,Medium,Teen
+Perungudi,13.027845109181428,80.14892267229745,12,Medium,Night,Rainy,Low,0,Extreme,Teen
+Anna Nagar,13.183966175460593,80.24129074900631,24,Low,Night,Clear,Low,6,Extreme,Senior
+Mylapore,13.093915046953839,80.26964157822404,17,High,Evening,Foggy,Low,4,Medium,Teen
+Adyar,12.805245988644087,80.22484776640418,15,High,Evening,Snowy,High,1,Low,Adult
+T Nagar,12.864594194005752,80.14076448393821,21,High,Afternoon,Clear,Medium,0,Medium,Child
+Mylapore,13.159484852227388,80.03317945726,19,Low,Morning,Foggy,Medium,5,High,Teen
+Mylapore,12.991840401803236,80.22972022689777,18,Medium,Night,Foggy,Medium,4,Extreme,Teen
+Guindy,13.027094859475094,80.26111342127133,14,High,Morning,Snowy,High,5,Medium,Teen
+Tambaram,13.134505978859094,80.20902994471341,14,Extreme,Evening,Foggy,High,6,High,Teen
+Thiruvanmiyur,12.816373746060071,80.17584464396207,24,Low,Afternoon,Rainy,Low,1,Extreme,Senior
+Mylapore,13.02587736189306,80.23944361824405,12,Low,Morning,Foggy,High,2,Extreme,Adult
+Anna Nagar,13.050648699315335,80.01341129600853,13,High,Morning,Foggy,Medium,2,High,Child
+T Nagar,12.976199781671692,80.25056499118506,16,Medium,Morning,Rainy,Low,0,High,Child
+Thiruvanmiyur,12.835720552291207,80.15966663800141,13,Medium,Afternoon,Snowy,Low,1,Medium,Child
+Sholinganallur,13.142644462040554,80.00008109340632,20,Low,Evening,Foggy,Medium,3,High,Child
+T Nagar,12.883926857144921,80.10826069371768,13,Extreme,Afternoon,Rainy,Medium,1,Low,Senior
+Guindy,13.110921603136244,80.09147799669891,18,Low,Night,Clear,Medium,4,High,Senior
+Mylapore,12.910457207302025,80.2652691814317,18,Extreme,Evening,Snowy,Low,4,Low,Teen
+Tambaram,12.951222683453285,80.26793098712561,21,High,Evening,Clear,Medium,5,High,Teen
+Mylapore,12.901836800329214,80.21721163704593,16,Medium,Morning,Foggy,Low,3,High,Adult
+Velachery,13.05606272598137,80.17912341756254,9,Extreme,Night,Snowy,High,5,Extreme,Senior
+Thiruvanmiyur,12.828978341748305,80.26181501128166,13,Low,Afternoon,Clear,High,1,Low,Senior
+Chengalpattu,12.889259842680058,80.23980544099545,21,High,Morning,Clear,High,8,Extreme,Teen
+Mylapore,13.101538491956914,80.16156533765002,14,Medium,Afternoon,Clear,High,6,Low,Teen
+Adyar,12.826766877171853,80.05939274213287,7,High,Morning,Foggy,Low,6,Low,Child
+Perungudi,13.167256988265493,80.20254078656404,18,Low,Afternoon,Foggy,High,1,Extreme,Teen
+Adyar,12.95541964225636,80.27083276604633,17,Medium,Morning,Rainy,Low,7,High,Senior
+Mylapore,12.968820031052259,80.10326016770935,13,Low,Evening,Clear,Low,1,Extreme,Senior
+Adyar,12.959886780140016,80.16576276188617,13,High,Night,Snowy,Medium,9,High,Child
+Chengalpattu,13.089007585704394,80.08204553382936,13,Extreme,Afternoon,Foggy,Medium,9,High,Senior
+Potheri,12.805372069582708,80.1883828498603,8,Medium,Night,Snowy,Medium,3,High,Child
+Anna Nagar,12.960278783451885,80.01648774653484,6,High,Evening,Snowy,High,3,Extreme,Teen
+T Nagar,13.095151220147544,80.13459095843032,13,Low,Afternoon,Snowy,Low,8,Medium,Child
+Thiruvanmiyur,13.142163417439612,80.11119594461292,12,Low,Evening,Clear,Medium,6,Low,Adult
+Mylapore,12.894356348544688,80.02220489409783,12,Low,Night,Clear,Medium,4,Extreme,Adult
+Guindy,13.023058044094979,80.05174796136666,15,Extreme,Night,Snowy,High,1,High,Teen
+Anna Nagar,12.932229888642201,80.266836164733,12,Low,Evening,Clear,Medium,6,Medium,Child
+Tambaram,12.852818000476967,80.1411981771821,17,Medium,Afternoon,Rainy,Medium,0,High,Senior
+Perungudi,13.145195161234268,80.14691401984878,17,High,Afternoon,Rainy,High,0,Low,Senior
+Adyar,12.807678209801493,80.05910158106545,14,High,Evening,Rainy,High,6,Medium,Senior
+Guindy,12.863060743208127,80.21060176055158,19,Medium,Night,Clear,High,3,Low,Teen
+Guindy,13.153166676202,80.00073133329786,13,Low,Night,Foggy,Low,2,Medium,Senior
+T Nagar,12.847757862690152,80.06610219267806,11,Medium,Evening,Clear,Low,3,Medium,Child
+Anna Nagar,12.822806325320817,80.06249472353448,14,Medium,Afternoon,Rainy,Medium,9,Extreme,Teen
+T Nagar,12.852207676975432,80.04264785503985,19,High,Afternoon,Snowy,Medium,9,Medium,Teen
+Sholinganallur,12.941885363666755,80.17397417873823,13,High,Morning,Foggy,Low,4,High,Teen
+Thiruvanmiyur,12.808988193694262,80.06170846848543,17,Extreme,Night,Snowy,Low,8,Medium,Teen
+Nungambakkam,13.035884748796143,80.20937856052271,19,Medium,Afternoon,Snowy,Low,6,High,Teen
+Adyar,13.133449446103342,80.00104738686521,18,Low,Evening,Rainy,Medium,3,Extreme,Child
+Tambaram,12.999934152047956,80.09121199621713,15,High,Evening,Rainy,Low,5,Medium,Teen
+Potheri,12.881617278899746,80.24981617995952,17,Medium,Afternoon,Rainy,High,0,High,Senior
+Chengalpattu,12.873042353149673,80.08664971361543,12,Medium,Afternoon,Foggy,High,1,Extreme,Senior
+Adyar,12.85818901013274,80.1450583854696,15,Extreme,Evening,Rainy,Medium,3,Extreme,Child
+Anna Nagar,13.003456429918435,80.20552909256989,9,Extreme,Evening,Foggy,Low,1,Low,Senior
+Thiruvanmiyur,13.088092778625278,80.2784802687586,17,Extreme,Morning,Foggy,Medium,8,Extreme,Adult
+Thiruvanmiyur,13.002977619937672,80.19275242592103,15,Low,Night,Clear,High,2,Low,Senior
+Perungudi,12.933215383136266,80.08262973229829,21,Low,Evening,Clear,Medium,1,Low,Child
+Tambaram,12.946144229228404,80.13706434675798,7,Medium,Evening,Foggy,Medium,9,Extreme,Teen
+Velachery,13.104579079548875,80.00624260434607,20,Medium,Night,Clear,High,2,Extreme,Child
+Perungudi,12.808277250925261,80.20242739444883,18,Low,Afternoon,Foggy,Medium,4,Low,Teen
+Velachery,13.178868704385426,80.20486190433034,7,Medium,Evening,Foggy,Medium,8,High,Teen
+Thiruvanmiyur,13.083728037981041,80.04458513381148,14,High,Evening,Foggy,High,8,Medium,Child
+Nungambakkam,13.1708390366996,80.23710845112079,13,Low,Evening,Snowy,Medium,2,Extreme,Child
+Adyar,12.970081053407398,80.24283465988582,19,Extreme,Evening,Foggy,Medium,3,Medium,Adult
+Sholinganallur,13.004518824465409,80.01915777564109,13,Low,Evening,Clear,Low,5,Extreme,Teen
+Sholinganallur,13.144141144298592,80.29227381113586,17,Extreme,Morning,Rainy,High,4,Low,Adult
+Guindy,13.010263610185007,80.14388121739167,13,High,Night,Rainy,Medium,9,Medium,Senior
+Sholinganallur,13.149392462074397,80.15853412082772,13,Low,Morning,Foggy,High,8,Medium,Senior
+Perungudi,12.803337711583458,80.17099818059262,17,Extreme,Night,Rainy,Low,1,Medium,Senior
+Tambaram,12.861327980631657,80.09945324778941,11,Low,Evening,Rainy,High,2,Low,Teen
+Sholinganallur,13.068679566237842,80.12447094007895,17,Low,Morning,Snowy,Medium,0,Extreme,Child
+Adyar,12.803511004338851,80.27654057800186,17,High,Evening,Foggy,Low,1,High,Senior
+Adyar,12.901559632132901,80.01275344531619,20,High,Night,Clear,Low,4,Medium,Teen
+Thiruvanmiyur,13.065959923237507,80.05846434585695,16,Extreme,Morning,Clear,Low,5,High,Child
+Guindy,12.934904222959416,80.22312527027039,11,Extreme,Evening,Snowy,High,4,Medium,Adult
+Perungudi,13.141282966370177,80.08386723211409,9,High,Night,Rainy,High,4,Extreme,Child
+Sholinganallur,13.14417919683767,80.21552061632191,16,High,Evening,Foggy,High,7,Medium,Child
+Anna Nagar,12.853042229460673,80.27385986964421,17,Medium,Morning,Clear,Low,8,Low,Adult
+Sholinganallur,12.849942440501824,80.08077248027304,22,Medium,Morning,Snowy,Low,1,Low,Senior
+Nungambakkam,13.05794996483939,80.23502426454246,14,Medium,Morning,Rainy,High,5,High,Child
+Adyar,12.950427371491394,80.07808671238321,10,Low,Night,Snowy,Medium,4,Low,Teen
+Guindy,13.107386631361353,80.15769614214148,14,Medium,Afternoon,Foggy,Medium,0,High,Adult
+Perungudi,12.906282292135037,80.22323213023337,24,Extreme,Evening,Foggy,Low,7,Low,Senior
+Velachery,13.184746590821343,80.13435869890249,15,High,Afternoon,Foggy,Medium,5,High,Teen
+Potheri,12.923176279552848,80.21815896243261,12,Low,Afternoon,Foggy,Low,2,Extreme,Adult
+T Nagar,13.027314208658883,80.11067465508509,9,Medium,Evening,Snowy,Low,1,Medium,Child
+Potheri,12.818344181511133,80.05569961985397,18,Low,Afternoon,Clear,Low,5,Extreme,Adult
+Perungudi,12.878540717020226,80.11284996755047,21,Low,Evening,Snowy,High,2,Low,Adult
+Guindy,12.979211217693026,80.03951502829086,16,Extreme,Afternoon,Rainy,Medium,3,High,Adult
+Adyar,13.050035890229427,80.08578241490355,9,Low,Morning,Foggy,Medium,4,Medium,Senior
+Sholinganallur,12.896434323379314,80.09366556195617,16,Low,Evening,Clear,Medium,1,Low,Teen
+Chengalpattu,12.812839665815074,80.1826560671774,17,Medium,Morning,Foggy,High,5,High,Adult
+Sholinganallur,12.805945292262932,80.17490202047166,14,Low,Afternoon,Rainy,Medium,5,Extreme,Teen
+Thiruvanmiyur,13.069986329629637,80.29522847370745,12,Medium,Morning,Rainy,Low,1,High,Adult
+Thiruvanmiyur,12.835507861900128,80.03779146607941,22,Extreme,Night,Rainy,Medium,3,Low,Teen
+Tambaram,12.849916546329219,80.00955110473672,16,Medium,Afternoon,Rainy,Medium,9,Extreme,Child
+Adyar,13.12014891576621,80.11960996888344,14,Low,Morning,Foggy,High,6,High,Senior
+Adyar,13.070914058513626,80.01554726296976,20,Extreme,Night,Foggy,Low,1,Extreme,Child
+Anna Nagar,12.92699671021975,80.07658415220266,18,Low,Morning,Clear,High,9,Extreme,Senior
+Potheri,13.12392185141145,80.23272752269187,17,Extreme,Afternoon,Foggy,Low,6,Medium,Teen
+Nungambakkam,13.187335700074438,80.17031438160957,15,Medium,Night,Clear,Low,7,Extreme,Teen
+Mylapore,12.94560507460197,80.2821288235519,16,Low,Evening,Snowy,High,0,Extreme,Senior
+Tambaram,12.877829638093978,80.24528339906772,19,Extreme,Afternoon,Clear,Low,7,Low,Senior
+Perungudi,12.962161120077358,80.12811540759748,14,Medium,Morning,Clear,Medium,4,Low,Senior
+Nungambakkam,13.165425453626256,80.08500759584014,16,High,Afternoon,Foggy,Medium,5,High,Adult
+Nungambakkam,12.940926044883588,80.17861517035352,9,Medium,Evening,Snowy,Medium,7,Low,Child
+Velachery,13.01678389642227,80.1678274648952,17,Medium,Night,Snowy,Low,3,Medium,Adult
+Adyar,13.127375243139493,80.2843929338343,16,High,Evening,Rainy,Medium,5,Extreme,Child
+Potheri,12.930516518018047,80.27194362496836,20,Low,Afternoon,Snowy,High,0,High,Senior
+Nungambakkam,13.071546436983747,80.11918596898141,21,Medium,Afternoon,Snowy,Medium,6,Extreme,Adult
+T Nagar,12.924431973999956,80.03624453485276,14,High,Morning,Foggy,High,6,Medium,Adult
+T Nagar,13.063917187420541,80.276561280198,17,Low,Night,Rainy,Low,9,Extreme,Child
+Perungudi,12.854339257257958,80.05811881186236,22,Extreme,Morning,Clear,Low,4,High,Adult
+Potheri,12.841702361960902,80.21411200115807,10,Low,Night,Snowy,Medium,1,Medium,Senior
+Thiruvanmiyur,12.886730044094955,80.17352784734456,12,Medium,Night,Foggy,Medium,3,Extreme,Teen
+Perungudi,12.879348655018362,80.26146707655698,15,High,Night,Clear,High,8,Extreme,Teen
+Tambaram,13.02015658650594,80.19812153060529,12,High,Evening,Clear,Medium,5,Low,Teen
+Tambaram,12.866656733026801,80.09574959328289,13,Medium,Evening,Foggy,Low,1,Extreme,Senior
+Potheri,13.021469519613088,80.21051927008756,10,Low,Afternoon,Snowy,High,0,Extreme,Child
+Thiruvanmiyur,13.065438536880775,80.28695420996321,10,High,Morning,Clear,Low,0,Low,Adult
+Sholinganallur,13.05009233680374,80.28946476845523,13,Low,Morning,Rainy,Low,0,High,Adult
+Perungudi,13.17965753559786,80.2447061980336,19,Medium,Night,Foggy,High,8,High,Child
+Nungambakkam,13.119572803708044,80.27961439499956,16,Low,Evening,Rainy,High,0,Extreme,Child
+Guindy,12.937055030585773,80.26283746358116,20,Low,Afternoon,Clear,High,4,Low,Adult
+Guindy,13.198217572996343,80.16625581081017,18,Extreme,Night,Foggy,High,5,High,Adult
+Sholinganallur,12.838701979949395,80.01707943871973,17,Medium,Afternoon,Rainy,High,2,Extreme,Teen
+Mylapore,12.830363704241671,80.13434283306411,15,Medium,Afternoon,Clear,Low,5,High,Senior
+Chengalpattu,12.89621702621682,80.29542944131049,16,Low,Night,Foggy,Low,6,Medium,Adult
+Chengalpattu,13.078230115688953,80.19521078605877,19,Medium,Night,Foggy,Medium,3,High,Teen
+Velachery,13.104471551701712,80.01750935047342,13,Low,Afternoon,Clear,High,1,Low,Child
+Mylapore,13.104113745058648,80.2299790216575,13,Medium,Afternoon,Rainy,High,3,Low,Child
+Sholinganallur,12.92691007070009,80.21094934039397,13,Low,Morning,Foggy,High,5,Medium,Senior
+Mylapore,13.128114506028771,80.12228798081038,8,High,Night,Clear,High,2,High,Teen
+Potheri,12.915113579359094,80.10923846600113,15,Extreme,Evening,Rainy,Low,5,Extreme,Child
+T Nagar,13.116924854098183,80.02987419184811,16,High,Evening,Clear,Medium,3,Extreme,Senior
+Adyar,13.081322455507076,80.14847420948395,18,Medium,Morning,Foggy,Low,9,Medium,Adult
+Thiruvanmiyur,13.106490309096671,80.19897045353386,15,High,Afternoon,Snowy,Medium,2,Extreme,Teen
+Chengalpattu,13.063636645769552,80.27494857946718,14,Medium,Afternoon,Clear,Low,4,Extreme,Teen
+Thiruvanmiyur,12.87076388031334,80.18060010135599,15,Low,Night,Rainy,High,1,Medium,Child
+Velachery,13.072721746334928,80.22251758576017,17,High,Evening,Foggy,Medium,6,High,Child
+Perungudi,13.086699017250284,80.22049943492776,20,Medium,Afternoon,Rainy,Medium,1,High,Teen
+Potheri,12.948146967167636,80.15188197737606,12,Extreme,Afternoon,Foggy,Medium,3,Medium,Adult
+Guindy,12.807434992214752,80.2751259267588,13,Low,Afternoon,Snowy,Medium,7,Extreme,Senior
+Potheri,13.192621486361487,80.20032196507813,18,Medium,Evening,Snowy,Medium,5,Low,Senior
+Adyar,13.10868492034502,80.01549812892691,17,Low,Night,Rainy,High,0,Low,Senior
+Sholinganallur,13.07541657323604,80.21566886181468,8,Extreme,Morning,Foggy,Low,3,Extreme,Child
+Anna Nagar,13.051437815041051,80.11864336654948,17,Low,Night,Rainy,High,6,Medium,Senior
+Nungambakkam,12.983148989113298,80.10496913581045,10,Extreme,Morning,Rainy,Low,4,Medium,Adult
+Anna Nagar,13.178223272298014,80.10123267709672,11,Medium,Morning,Rainy,High,3,Medium,Teen
+Chengalpattu,13.012315322386511,80.17889190745007,15,High,Night,Clear,Medium,0,Medium,Teen
+Chengalpattu,13.12766604640507,80.28911534880538,10,Medium,Morning,Rainy,Medium,8,Low,Senior
+Adyar,12.872840559267253,80.06056095781007,12,High,Evening,Foggy,High,6,High,Adult
+Nungambakkam,13.162847558187496,80.04199571837965,12,Low,Morning,Foggy,Medium,9,High,Adult
+Anna Nagar,12.9041203648243,80.15271705637616,24,Medium,Morning,Snowy,Low,2,High,Teen
+Thiruvanmiyur,13.18404484849092,80.00601212074235,10,Low,Afternoon,Foggy,High,3,Medium,Child
+Sholinganallur,13.053142059768787,80.02099183732342,16,High,Night,Foggy,High,5,High,Child
+Anna Nagar,13.102867148458621,80.15877356934696,7,Extreme,Evening,Foggy,Medium,0,Extreme,Adult
+Perungudi,12.902983065699239,80.05235201266561,19,Extreme,Morning,Rainy,Medium,3,Extreme,Teen
+T Nagar,13.184899098476738,80.10912727599863,15,Extreme,Night,Snowy,Medium,1,Low,Adult
+Adyar,13.07156158813964,80.28847531018909,11,High,Evening,Rainy,High,4,Low,Child
+Velachery,13.194814180957284,80.0046610607962,11,Low,Evening,Snowy,Medium,2,Low,Child
+Mylapore,12.945670413113062,80.06278860116426,12,Medium,Evening,Clear,High,7,Low,Child
+Nungambakkam,13.153007960665033,80.01210306638285,16,Low,Morning,Snowy,Low,7,Medium,Teen
+Thiruvanmiyur,12.847982241426541,80.22875467226713,15,Low,Evening,Snowy,Medium,2,Medium,Teen
+Potheri,12.990024011733492,80.29666266541533,16,High,Evening,Clear,High,9,Medium,Teen
+Anna Nagar,12.849615997568577,80.18933749645895,18,Low,Afternoon,Clear,High,4,Medium,Adult
+Perungudi,13.112510915481279,80.02881717778311,21,High,Night,Clear,High,4,Medium,Adult
+T Nagar,13.020647953757468,80.20343459483303,12,Extreme,Afternoon,Foggy,High,1,Low,Teen
+Perungudi,13.044677176019105,80.06442405315804,20,Extreme,Afternoon,Rainy,Medium,8,High,Adult
+Adyar,12.99127468546247,80.07706464564268,18,Extreme,Morning,Rainy,Low,9,High,Senior
+Perungudi,12.83803214317381,80.26842341489483,14,Extreme,Morning,Rainy,Medium,7,Medium,Teen
+Anna Nagar,13.11521138012139,80.02222598137509,18,Extreme,Night,Snowy,Low,6,Extreme,Teen
+Adyar,12.977595065417935,80.28376188854902,16,Medium,Night,Clear,Medium,0,High,Senior
+Tambaram,12.97478955297385,80.0275970741743,18,Medium,Night,Foggy,Medium,6,Low,Senior
+Adyar,13.097226638501917,80.22934566218728,17,High,Night,Snowy,Low,5,Low,Teen
+Sholinganallur,12.808473913717606,80.12147831870679,14,Extreme,Morning,Clear,Medium,3,Extreme,Child
+Mylapore,13.124714385183385,80.18815532937663,8,Low,Afternoon,Foggy,Medium,3,Medium,Teen
+Velachery,12.856796175223003,80.23723260050606,24,Medium,Evening,Foggy,Medium,6,Extreme,Adult
+Velachery,13.098093690784646,80.17781500495805,10,Low,Afternoon,Rainy,Medium,0,High,Adult
+Adyar,12.836393810640523,80.15618857601231,13,Low,Night,Rainy,Medium,4,Extreme,Child
+Velachery,13.080037189455297,80.13082533011683,14,Low,Night,Clear,Medium,4,Medium,Teen
+Anna Nagar,13.12326908157198,80.00098075072069,16,High,Morning,Clear,High,7,High,Child
+T Nagar,13.029391411286737,80.03383151470301,22,Low,Afternoon,Clear,Low,8,Medium,Child
+Thiruvanmiyur,13.031143651984662,80.12126899856679,12,Medium,Night,Rainy,Low,4,Extreme,Child
+T Nagar,12.961872434989667,80.14805699574984,11,Low,Afternoon,Snowy,Low,2,Medium,Adult
+Adyar,13.103557935907322,80.1579082644972,17,Medium,Night,Snowy,Low,4,Low,Senior
+Nungambakkam,12.828027185819414,80.21046385413052,12,High,Morning,Rainy,Low,6,Extreme,Senior
+Chengalpattu,12.96577148488571,80.11541543297035,15,Extreme,Night,Clear,High,1,Low,Senior
+Anna Nagar,12.911723926265577,80.16968465810575,16,Medium,Night,Clear,High,8,High,Senior
+Sholinganallur,13.163202770355774,80.23592183095272,17,Extreme,Evening,Rainy,Low,3,High,Adult
+Perungudi,12.977561111240876,80.21762511593644,18,Low,Evening,Foggy,Low,7,Medium,Child
+Thiruvanmiyur,13.181423571976321,80.28563163663512,13,Medium,Afternoon,Clear,High,0,Low,Adult
+Nungambakkam,12.986529370623327,80.18628963127377,13,High,Night,Clear,Low,1,High,Teen
+T Nagar,12.863560963445183,80.03824462391034,13,High,Evening,Rainy,Low,4,Low,Child
+Mylapore,12.927818861083718,80.12617996706142,12,High,Evening,Rainy,High,8,Medium,Senior
+Anna Nagar,12.937070250130335,80.0670484406761,15,Medium,Afternoon,Clear,High,3,Medium,Teen
+Adyar,12.981164413652367,80.08516173872235,20,Extreme,Morning,Clear,High,5,High,Child
+Potheri,12.914514120791246,80.19164020009192,16,Medium,Evening,Rainy,Low,1,Extreme,Child
+T Nagar,13.150883142927484,80.2296823699449,14,Low,Night,Clear,Low,7,Medium,Child
+Velachery,12.97037884305707,80.25944854708646,14,Low,Evening,Snowy,Medium,1,Low,Child
+Chengalpattu,12.806185970717534,80.11364472119683,24,Low,Night,Foggy,High,5,High,Teen
+Sholinganallur,13.195613612648177,80.19589238617,12,Extreme,Afternoon,Rainy,Low,1,High,Child
+T Nagar,12.941729329804472,80.1584946140789,22,High,Afternoon,Clear,Low,5,Extreme,Senior
+Anna Nagar,12.877291541589237,80.09299534165706,13,Low,Afternoon,Clear,Low,1,High,Senior
+Thiruvanmiyur,13.127402035482723,80.1888807636002,13,Low,Morning,Rainy,Low,5,High,Teen
+Guindy,13.184213943434353,80.05585902071628,15,Medium,Morning,Clear,Low,2,Extreme,Adult
+Mylapore,12.982015141710109,80.23628953918356,16,Low,Evening,Foggy,Low,7,Extreme,Senior
+Sholinganallur,12.99685387847398,80.28239163108093,14,Medium,Evening,Foggy,Low,8,Extreme,Adult
+Adyar,13.19637957808497,80.0671361788782,23,Low,Morning,Foggy,Medium,8,High,Child
+Thiruvanmiyur,12.976980567191264,80.18838646986252,19,Extreme,Evening,Foggy,Low,7,Medium,Adult
+Tambaram,12.814267395814193,80.1233685160671,22,Low,Afternoon,Snowy,Medium,6,Extreme,Child
+Chengalpattu,13.050417480864935,80.06141405208072,15,Low,Morning,Snowy,Low,9,Low,Adult
+Adyar,13.060706984974559,80.01239988810651,10,Low,Night,Rainy,Medium,4,Low,Senior
+T Nagar,13.09629238540054,80.03468869079596,8,Low,Evening,Snowy,High,4,High,Senior
+Adyar,13.144032673053127,80.12784366126729,15,Extreme,Night,Rainy,Low,9,Medium,Senior
+Nungambakkam,12.934513589625295,80.1248607767861,20,Extreme,Night,Rainy,Medium,6,High,Child
+Nungambakkam,12.958548741494576,80.09581996361706,13,Medium,Night,Foggy,High,5,Medium,Adult
+Nungambakkam,13.18899279203011,80.11783036097444,17,Medium,Morning,Foggy,High,6,Extreme,Adult
+T Nagar,12.926183850768373,80.10721607914475,10,Low,Afternoon,Snowy,Medium,0,Extreme,Senior
+Tambaram,13.156420595393163,80.09926951706038,15,Extreme,Morning,Snowy,High,6,Medium,Child
+T Nagar,13.160795609850929,80.03855168058034,17,High,Night,Foggy,Low,0,Extreme,Child
+Velachery,12.859562925681269,80.11339047551816,12,Extreme,Evening,Foggy,Low,4,Extreme,Child
+Chengalpattu,13.118140122506063,80.21691130071012,15,Low,Evening,Rainy,Medium,7,Extreme,Senior
+Potheri,12.915112208565208,80.26181909287455,9,Low,Morning,Snowy,High,7,Low,Child
+Thiruvanmiyur,12.964923474613258,80.28100135457277,7,Extreme,Evening,Snowy,Medium,5,Medium,Child
+Guindy,13.163805412170136,80.1435655387885,15,Low,Evening,Rainy,Low,4,Low,Adult
+Tambaram,12.802919280361863,80.13796080711502,19,High,Night,Foggy,High,5,High,Senior
+T Nagar,12.89429306426976,80.02779850743418,12,Extreme,Morning,Foggy,Medium,9,Medium,Adult
+Thiruvanmiyur,13.074839198870372,80.16778624066234,15,Low,Evening,Clear,Medium,6,Low,Senior
+Guindy,12.987253205194918,80.05938159815607,18,Extreme,Morning,Clear,High,1,Extreme,Senior
+Potheri,12.965839936739972,80.1585507221261,19,High,Morning,Foggy,High,9,Medium,Teen
+Chengalpattu,12.831329684945478,80.13760174749667,17,Medium,Evening,Foggy,Medium,9,Low,Senior
+Perungudi,12.967995378779301,80.29850788526066,23,Medium,Afternoon,Snowy,High,8,Low,Teen
+Tambaram,13.037472561218255,80.24766407950021,15,Low,Evening,Rainy,Medium,7,Low,Adult
+Tambaram,13.115134094857407,80.14799069075988,16,Extreme,Afternoon,Snowy,Low,4,Low,Adult
+Sholinganallur,12.968392612350545,80.27867001584809,12,Medium,Night,Snowy,Medium,3,Low,Teen
+Potheri,13.012768355128017,80.1147064202532,18,Extreme,Evening,Foggy,High,8,High,Child
+Chengalpattu,13.112244971746653,80.1095505567658,17,Extreme,Morning,Clear,Low,9,Low,Child
+Anna Nagar,13.004181025427624,80.21144463807343,18,Extreme,Night,Snowy,Low,5,Medium,Teen
+Mylapore,13.090069502826388,80.11125120019551,9,Medium,Night,Clear,Medium,7,Medium,Adult
+Guindy,12.925969007022069,80.24397798034968,20,Extreme,Evening,Clear,High,0,Low,Teen
+Thiruvanmiyur,13.017874215066332,80.18031400507348,11,Medium,Night,Foggy,High,2,Medium,Teen
+Chengalpattu,12.82723154596015,80.04378550710656,14,High,Night,Rainy,High,6,High,Teen
+Anna Nagar,12.89555081793232,80.12273554609057,16,High,Night,Snowy,Low,3,Medium,Child
+Thiruvanmiyur,12.92249575003347,80.28613739533694,15,Low,Evening,Foggy,High,3,Medium,Adult
+Nungambakkam,12.988904918255974,80.07817545190113,13,Medium,Evening,Rainy,Medium,9,Medium,Teen
+T Nagar,13.122252648350324,80.26442120520129,17,High,Afternoon,Clear,High,3,Low,Adult
+Sholinganallur,13.015242190422834,80.11043316059451,19,Medium,Evening,Snowy,Low,7,Medium,Adult
+Guindy,13.101341795177865,80.26412700291647,19,Low,Evening,Foggy,Medium,0,High,Teen
+Tambaram,12.879468673571571,80.19560719100367,15,High,Morning,Rainy,Medium,7,Extreme,Adult
+Potheri,13.046311075225585,80.01670150719036,9,Extreme,Evening,Clear,Medium,8,Medium,Child
+Anna Nagar,12.9157892115499,80.19671947854064,10,Extreme,Night,Foggy,Low,8,Low,Senior
+Potheri,12.982552258679553,80.05324217292356,15,Low,Night,Snowy,Low,6,High,Adult
+Chengalpattu,13.010669538718863,80.12847181866726,13,Medium,Afternoon,Clear,Low,4,Low,Senior
+Guindy,12.90937879276729,80.0713194668137,18,Extreme,Morning,Rainy,Low,2,Medium,Adult
+Adyar,12.99719997176482,80.09121519828356,14,Extreme,Night,Rainy,High,7,High,Child
+Guindy,13.0207142930599,80.03026767217929,13,High,Morning,Clear,High,8,High,Senior
+T Nagar,13.163402078622282,80.13205956508112,18,Medium,Night,Rainy,Medium,0,Medium,Adult
+Chengalpattu,12.920042033450649,80.02364871351276,16,Extreme,Morning,Clear,High,6,Low,Senior
+Mylapore,13.017272392955938,80.02970098431618,24,Low,Evening,Foggy,Medium,0,High,Senior
+Thiruvanmiyur,13.08351253327353,80.23599871751652,14,Extreme,Evening,Rainy,Low,4,High,Child
+Velachery,13.069652758538902,80.16521914609542,16,High,Morning,Rainy,Low,4,Medium,Senior
+Adyar,13.052800637513599,80.06589039499546,16,High,Night,Rainy,High,0,Medium,Teen
+Tambaram,12.929133141457388,80.26872858628587,13,High,Evening,Foggy,Medium,4,High,Senior
+Tambaram,13.174588143559337,80.26209376389755,17,High,Evening,Clear,High,3,Extreme,Senior
+Sholinganallur,12.835824736465382,80.17388540175267,19,High,Evening,Foggy,Low,0,Extreme,Child
+Mylapore,13.168879922234572,80.0757857013361,11,Extreme,Morning,Snowy,High,7,Extreme,Teen
+Guindy,12.848446762285713,80.21413261976053,17,Low,Evening,Clear,High,9,Extreme,Senior
+Guindy,12.835017267960952,80.06856296092853,12,Extreme,Afternoon,Snowy,High,0,Extreme,Adult
+Mylapore,13.0901134396684,80.00764891192615,21,Low,Morning,Snowy,Medium,4,Medium,Teen
+Thiruvanmiyur,13.027099772950818,80.15460776495507,10,High,Night,Rainy,Low,5,Medium,Teen
+Nungambakkam,12.909906991741096,80.03761373704789,11,Extreme,Night,Clear,High,7,High,Child
+Thiruvanmiyur,12.829209909696564,80.14909282740169,16,Low,Afternoon,Rainy,Medium,8,Medium,Adult
+Nungambakkam,12.935547761039157,80.2908150479496,27,Extreme,Night,Foggy,Medium,8,Extreme,Senior
+Chengalpattu,13.012952275508725,80.13609773719593,16,Extreme,Evening,Foggy,Medium,2,Low,Adult
+Nungambakkam,12.89662124301116,80.08209428769547,10,High,Morning,Rainy,High,8,Low,Teen
+Tambaram,13.143031736448243,80.20622417154716,7,Medium,Afternoon,Clear,Low,9,Low,Adult
+Adyar,13.1012206844685,80.02201545167495,16,Low,Evening,Snowy,Low,4,High,Adult
+Guindy,13.119775041743768,80.00065605535148,12,Medium,Afternoon,Foggy,High,8,Medium,Teen
+Potheri,13.18152478809061,80.17799315224153,13,High,Night,Foggy,Low,7,Extreme,Adult
+Mylapore,12.946488170249927,80.11344454441422,16,High,Evening,Foggy,Medium,9,Extreme,Teen
+Potheri,13.060867015918403,80.03346429857461,17,Medium,Morning,Snowy,Low,5,High,Senior
+Thiruvanmiyur,13.164867703953096,80.04647920780374,19,High,Afternoon,Foggy,High,0,Extreme,Senior
+Perungudi,12.936922721279496,80.00835474767044,17,Low,Afternoon,Foggy,Medium,0,Low,Teen
+Potheri,12.919617878434149,80.03264397241176,6,Extreme,Afternoon,Snowy,High,1,Low,Senior
+Mylapore,12.813787338762168,80.17172007030835,15,Low,Night,Clear,Low,1,Low,Senior
+Guindy,12.930182933321921,80.20525016896079,22,Medium,Night,Foggy,Medium,3,Extreme,Senior
+Tambaram,12.979252549097229,80.14351169504094,17,Medium,Afternoon,Snowy,High,1,Extreme,Adult
+Chengalpattu,13.086063717839803,80.00088042475024,14,Extreme,Morning,Clear,Medium,7,High,Senior
+Perungudi,13.098676244090075,80.23457785799499,15,Medium,Evening,Clear,Low,0,Medium,Adult
+Potheri,13.143721856878406,80.11376106952812,15,High,Afternoon,Foggy,High,6,Extreme,Senior
+Guindy,13.162861208718885,80.15738819355713,19,Extreme,Morning,Snowy,Low,1,Medium,Child
+Perungudi,13.18611329432826,80.11618761199196,15,Extreme,Night,Foggy,High,3,Low,Child
+Thiruvanmiyur,13.037646464358199,80.05881376211049,12,Low,Evening,Foggy,Medium,8,Extreme,Adult
+Adyar,12.869141363938821,80.2059858358928,17,Low,Morning,Snowy,High,7,High,Child
+Anna Nagar,12.886862539414873,80.01335044470926,16,Extreme,Night,Clear,High,8,Extreme,Adult
+Velachery,13.143343840590337,80.21206391099022,17,High,Evening,Snowy,High,1,Extreme,Teen
+Sholinganallur,12.909477705278688,80.03541175227157,21,Medium,Morning,Rainy,Medium,7,High,Child
+Tambaram,13.12211143808452,80.06237406439251,14,Low,Night,Rainy,Medium,2,High,Adult
+Chengalpattu,12.90435414747383,80.247466102547,18,Medium,Afternoon,Clear,Medium,7,Extreme,Senior
+Anna Nagar,12.847510124755601,80.22386260553333,21,Low,Morning,Foggy,Low,5,Medium,Adult
+Chengalpattu,13.073118882538681,80.17283205608643,11,Extreme,Night,Rainy,High,0,Low,Teen
+Sholinganallur,12.873528911575091,80.24742885697142,17,High,Night,Snowy,High,2,High,Child
+Potheri,13.106672531694466,80.16918210031909,20,Extreme,Morning,Clear,Medium,6,High,Adult
+Perungudi,12.904830216947126,80.29994779901035,13,Extreme,Afternoon,Clear,Low,7,Extreme,Child
+Potheri,13.065898212693108,80.09650301701829,15,Medium,Morning,Foggy,Medium,5,Low,Adult
+Tambaram,12.900926068195371,80.1961513003474,27,Medium,Afternoon,Rainy,High,5,Extreme,Child
+Velachery,12.991672100916482,80.29223327353705,16,Extreme,Evening,Foggy,High,0,Medium,Senior
+Potheri,13.0300348054086,80.1180539053272,18,High,Morning,Clear,Medium,2,Medium,Child
+Thiruvanmiyur,12.820670910172714,80.20621408553201,15,Medium,Afternoon,Snowy,Low,9,Extreme,Teen
+Perungudi,12.849832341289712,80.26892506612408,8,High,Morning,Snowy,Medium,0,Medium,Teen
+Nungambakkam,13.161103345580473,80.05353468521189,14,Extreme,Afternoon,Snowy,High,0,High,Senior
+Nungambakkam,12.894880048564161,80.26442097549133,6,Extreme,Evening,Clear,Low,4,High,Child
+Velachery,12.947502025582875,80.20904533140272,14,High,Evening,Foggy,Low,8,Medium,Teen
+Chengalpattu,13.090624319117314,80.02865948368957,18,Medium,Night,Clear,Medium,2,High,Adult
+T Nagar,13.051482620550027,80.27791190577123,16,Extreme,Afternoon,Rainy,Medium,5,High,Senior
+Anna Nagar,12.928929792984954,80.29482589423775,12,Low,Afternoon,Snowy,Medium,4,Extreme,Senior
+Potheri,13.184190745659528,80.23358476817211,16,High,Evening,Foggy,Low,0,Medium,Teen
+Potheri,13.158025913691034,80.17773980822072,17,Extreme,Night,Snowy,Low,3,Low,Teen
+Tambaram,12.836868667702806,80.15306222393332,24,Extreme,Afternoon,Foggy,Medium,9,Low,Child
+Anna Nagar,13.008031529369257,80.0682509570459,15,Medium,Evening,Rainy,High,1,Extreme,Adult
+Sholinganallur,12.93454066420332,80.06415128353544,13,Medium,Morning,Clear,Low,7,Low,Adult
+Thiruvanmiyur,12.830633727497881,80.16264254954966,13,Medium,Afternoon,Clear,Medium,1,Medium,Senior
+Thiruvanmiyur,13.174949966275653,80.22158450084139,11,Medium,Evening,Snowy,Medium,1,Low,Senior
+Perungudi,12.802100654625093,80.2756238004945,18,Extreme,Morning,Clear,Low,3,High,Teen
+Nungambakkam,12.80411623884538,80.19247632224781,18,Low,Evening,Clear,High,9,High,Senior
+T Nagar,13.015405347532887,80.18955302969766,13,Extreme,Night,Foggy,Low,8,Low,Adult
+Tambaram,12.968314498000522,80.22598558079034,15,Medium,Afternoon,Rainy,Medium,6,Extreme,Senior
+Chengalpattu,12.865624592667274,80.10787034500085,30,Low,Evening,Rainy,High,0,Extreme,Adult
+Velachery,12.846399964460662,80.20591506515386,16,Extreme,Evening,Clear,Low,3,Medium,Adult
+Nungambakkam,13.00909469354995,80.23715326800468,15,Low,Evening,Rainy,Medium,2,High,Child
+Tambaram,12.847076653898544,80.04563733604914,14,Extreme,Night,Foggy,High,7,Extreme,Child
+Tambaram,12.8933541260589,80.12483300414186,8,Medium,Evening,Clear,High,6,Low,Senior
+Chengalpattu,13.006353601822521,80.18346039249974,8,Medium,Evening,Rainy,Medium,6,Extreme,Adult
+Potheri,12.96907743741828,80.18997748581707,19,Low,Afternoon,Clear,Low,5,High,Child
+Chengalpattu,13.175230162263272,80.27651339538217,15,Low,Morning,Foggy,Medium,4,High,Senior
+Tambaram,12.867606893248187,80.27742098782043,17,Extreme,Afternoon,Snowy,Medium,1,Low,Senior
+Velachery,12.814610992226969,80.19151469940036,17,Medium,Evening,Clear,Medium,4,High,Child
+T Nagar,13.031097316882335,80.25188771442319,17,Extreme,Evening,Foggy,Medium,0,Medium,Senior
+Thiruvanmiyur,13.074039201393658,80.11015501714003,21,Low,Morning,Clear,Low,8,Medium,Adult
+Chengalpattu,12.933347491813219,80.06988215257793,19,Extreme,Night,Foggy,Medium,4,Extreme,Teen
+Mylapore,12.987464661596535,80.19434456473907,9,Medium,Evening,Clear,Medium,5,Medium,Child
+Tambaram,12.95438661470834,80.04973632982882,16,Low,Night,Clear,Low,8,Low,Senior
+Nungambakkam,13.011557690445954,80.08626113182808,10,Medium,Afternoon,Rainy,High,1,High,Senior
+Nungambakkam,13.046957899924017,80.0590607759995,13,Extreme,Afternoon,Foggy,Low,5,High,Adult
+Potheri,12.992904994815534,80.25352734881643,18,High,Evening,Clear,High,3,Medium,Adult
+Tambaram,12.851655793479727,80.00217256006312,14,Low,Morning,Rainy,Low,3,Medium,Child
+Adyar,13.098980053089772,80.28720998463993,18,High,Afternoon,Snowy,High,9,Low,Senior
+Potheri,12.991912894121658,80.02801291503347,12,Medium,Afternoon,Rainy,High,4,Low,Teen
+Velachery,13.011225156379343,80.18311693617534,15,Medium,Morning,Clear,High,2,Extreme,Teen
+Mylapore,12.90289470818349,80.27573854182468,16,High,Morning,Rainy,Medium,6,Medium,Teen
+Sholinganallur,13.14012563588181,80.15933814223438,21,Extreme,Morning,Foggy,Medium,1,Low,Teen
+Mylapore,12.87980067494159,80.2925009588642,8,High,Evening,Clear,Low,2,Medium,Teen
+Anna Nagar,12.970784312337537,80.0126340543483,20,Low,Morning,Snowy,Low,2,High,Adult
+Sholinganallur,13.142576631988266,80.11374432442967,19,Medium,Evening,Clear,Low,6,High,Teen
+Thiruvanmiyur,13.073289279701056,80.02663951503126,9,Extreme,Night,Foggy,Low,5,Low,Senior
+Guindy,12.970629151542354,80.20678282115772,15,Medium,Evening,Clear,High,0,Medium,Teen
+Guindy,12.80999895028256,80.14058986546951,12,Medium,Night,Foggy,Low,1,Low,Child
+Chengalpattu,13.056979290311233,80.28724727474906,7,High,Afternoon,Foggy,Low,3,Medium,Child
+T Nagar,12.976255763714676,80.27888496221067,10,High,Afternoon,Clear,Medium,5,Extreme,Child
+Anna Nagar,12.969275723291501,80.09228016883856,20,Low,Evening,Rainy,High,0,Medium,Child
+Adyar,12.802983247589088,80.21364563311819,18,Low,Afternoon,Foggy,Medium,7,Extreme,Senior
+Perungudi,13.026594274935968,80.25173033006362,24,High,Night,Rainy,Low,7,High,Adult
+Perungudi,13.132822579747,80.08698940159105,18,High,Morning,Rainy,Medium,2,Low,Senior
+Chengalpattu,12.884458300065633,80.1377086297953,16,High,Night,Foggy,High,6,High,Child
+Potheri,13.081896630635242,80.19219851886226,17,High,Night,Rainy,High,1,High,Teen
+Velachery,12.978972107978532,80.20705978520733,8,Extreme,Evening,Snowy,Low,2,Extreme,Senior
+Mylapore,13.015025287583923,80.09213413172372,18,Low,Night,Clear,High,0,Extreme,Senior
+Potheri,13.113643944771983,80.11971040850942,23,Medium,Evening,Snowy,High,1,Medium,Adult
+Mylapore,12.862071757574807,80.26135930077879,12,High,Morning,Snowy,Medium,6,Medium,Senior
+Tambaram,12.922375164279783,80.2252166175562,16,High,Morning,Rainy,Medium,1,Medium,Adult
+Nungambakkam,13.171003977866796,80.29046470033119,17,Low,Afternoon,Clear,High,9,Medium,Child
+T Nagar,13.014136689787803,80.21836921766975,12,Extreme,Afternoon,Snowy,Medium,5,Medium,Child
+Perungudi,13.164940348725093,80.07783295004498,18,Low,Morning,Snowy,High,9,High,Child
+Tambaram,12.84169660919957,80.04036342813446,18,Medium,Morning,Snowy,Medium,2,Extreme,Adult
+Mylapore,13.100399470508636,80.19365586983203,18,High,Afternoon,Snowy,Medium,4,Medium,Adult
+Mylapore,13.12817095057202,80.08004904934839,13,High,Night,Foggy,Low,5,Low,Teen
+Tambaram,13.036142755261729,80.07518544826398,16,Low,Evening,Snowy,Low,5,Medium,Senior
+Guindy,12.844098705312636,80.01994981443544,19,High,Afternoon,Rainy,High,3,Low,Adult
+Adyar,13.02085735589463,80.10138828881787,16,High,Afternoon,Clear,Low,9,Medium,Senior
+Sholinganallur,12.970675585308722,80.03647444661877,13,High,Morning,Foggy,High,3,High,Senior
+Velachery,12.972275567926722,80.1990966712288,19,Medium,Afternoon,Clear,Low,9,Low,Teen
+Perungudi,12.899153694870751,80.05338240343573,11,Medium,Afternoon,Clear,Medium,2,Medium,Child
+Thiruvanmiyur,13.172938917507516,80.17649064254923,18,Low,Afternoon,Rainy,Medium,2,Extreme,Senior
+Guindy,12.882870384972998,80.0251018932467,13,Low,Morning,Foggy,Low,4,Low,Teen
+Tambaram,12.924726108174898,80.27472458202323,11,High,Morning,Foggy,High,8,High,Child
+Anna Nagar,12.845586352888805,80.18852651065043,14,Extreme,Evening,Snowy,Low,6,High,Senior
+Perungudi,12.890699351987276,80.03140329979786,20,Extreme,Morning,Snowy,High,4,Medium,Child
+Sholinganallur,12.903854510158128,80.06310496001059,18,High,Night,Snowy,High,4,Medium,Teen
+Sholinganallur,13.005604699556898,80.13432057299121,6,High,Afternoon,Rainy,High,2,Low,Senior
+T Nagar,13.078978577528137,80.02313525257613,19,Medium,Morning,Rainy,High,2,Extreme,Senior
+Sholinganallur,13.038601733415698,80.126804094013,14,High,Night,Rainy,Medium,9,High,Child
+Tambaram,13.045867235598141,80.18132487974508,18,Medium,Evening,Snowy,High,9,Medium,Child
+Guindy,13.169073004754983,80.1959685190525,12,Medium,Afternoon,Foggy,High,3,Extreme,Senior
+Potheri,13.067451685823904,80.17331670325018,13,Extreme,Evening,Snowy,High,0,Medium,Teen
+Thiruvanmiyur,13.080718192955487,80.14888462027031,10,High,Night,Foggy,Low,3,Extreme,Adult
+Nungambakkam,13.007339732807619,80.20549703845549,8,Low,Evening,Rainy,Medium,1,Extreme,Teen
+Sholinganallur,13.121584742028475,80.21072109739507,17,High,Night,Rainy,Low,1,High,Adult
+Velachery,13.000177850107882,80.00188683697107,12,High,Afternoon,Foggy,High,5,Extreme,Adult
+Tambaram,13.159292674359602,80.2129994644749,5,Low,Afternoon,Snowy,Low,9,Extreme,Teen
+Chengalpattu,12.945816989112219,80.0697225529624,11,Low,Evening,Clear,Low,4,Extreme,Teen
+Adyar,13.077633626857322,80.18411984782462,19,Low,Afternoon,Rainy,High,1,Low,Adult
+Perungudi,13.19951831009092,80.04113499476763,15,Medium,Evening,Clear,High,0,Extreme,Adult
+Nungambakkam,12.97447079947489,80.10107822128529,13,Low,Evening,Snowy,Medium,9,High,Adult
+Potheri,12.84103415417782,80.13676574229024,12,Low,Night,Foggy,Medium,2,Medium,Adult
+Potheri,12.877659059921939,80.19970714723628,11,High,Night,Snowy,Low,3,High,Child
+Chengalpattu,12.841463710006767,80.15191081443014,15,Medium,Morning,Foggy,High,0,High,Adult
+Velachery,12.824228301753532,80.031076608016,9,Extreme,Evening,Rainy,High,7,Extreme,Adult
+Anna Nagar,13.187346473960762,80.2992310045282,14,Medium,Afternoon,Snowy,High,3,Low,Senior
+Mylapore,13.121381158400746,80.2713198053879,12,Medium,Afternoon,Foggy,High,1,High,Senior
+Guindy,13.11801808715259,80.16805045846745,21,Medium,Afternoon,Snowy,Low,7,Extreme,Child
+Guindy,13.148554386588968,80.03261458542995,17,Medium,Evening,Snowy,Low,2,High,Child
+Nungambakkam,12.937717456788903,80.07392339591986,15,Medium,Evening,Clear,Medium,1,Extreme,Child
+Velachery,13.105413526658237,80.15415789979932,18,Medium,Night,Clear,Low,5,High,Adult
+Tambaram,12.931952467034376,80.1650629124977,20,Extreme,Afternoon,Rainy,High,0,Medium,Adult
+Guindy,12.808813619901569,80.28141306846145,17,High,Morning,Foggy,Medium,2,Low,Teen
+Guindy,12.947839682661025,80.12532461863593,15,Medium,Afternoon,Rainy,High,9,Extreme,Adult
+Velachery,13.1473290019947,80.1395918001909,21,Low,Evening,Clear,High,5,Extreme,Senior
+Tambaram,12.903530147779524,80.22062400105966,19,Extreme,Afternoon,Foggy,Low,8,Low,Teen
+Thiruvanmiyur,13.049971891604091,80.14917737988469,18,Extreme,Afternoon,Clear,Low,6,Extreme,Teen
+Potheri,13.025171514417005,80.21050579662254,19,High,Afternoon,Foggy,High,1,High,Teen
+Anna Nagar,12.970143846021044,80.13901233097535,13,High,Morning,Clear,Medium,7,Low,Senior
+Perungudi,12.860868690882663,80.1292060337156,17,Medium,Morning,Rainy,High,1,Extreme,Adult
+Chengalpattu,13.024219107516712,80.09301164766117,16,Medium,Evening,Rainy,High,5,Low,Adult
+Anna Nagar,12.837873611664822,80.14059611670872,12,Extreme,Afternoon,Snowy,Medium,6,Medium,Senior
+Nungambakkam,13.188279572693036,80.28314963284953,15,High,Afternoon,Foggy,High,2,High,Adult
+Adyar,12.917940793212692,80.00606950224119,11,Extreme,Evening,Foggy,Medium,8,Extreme,Adult
+Tambaram,13.115604743113444,80.29363936631803,10,Medium,Evening,Rainy,Medium,7,High,Teen
+Perungudi,13.15910128055315,80.01033199525855,17,Extreme,Night,Rainy,High,6,High,Senior
+Guindy,12.877654150116154,80.12622479134482,18,Extreme,Night,Rainy,High,2,Low,Teen
+Adyar,12.969367290316018,80.2464843404444,12,Medium,Morning,Rainy,Low,8,High,Teen
+Tambaram,12.903939122851416,80.11035001742489,11,Low,Evening,Rainy,High,9,Medium,Senior
+Chengalpattu,13.135535581974443,80.13922674860322,20,Medium,Afternoon,Rainy,High,1,Medium,Senior
+T Nagar,12.89614835590006,80.0554954933274,16,Extreme,Morning,Foggy,Low,9,High,Child
+Tambaram,12.842442632419553,80.26729996247212,18,Medium,Night,Rainy,Low,4,Extreme,Teen
+Nungambakkam,12.914243492137022,80.08311028710243,17,Extreme,Afternoon,Rainy,Medium,6,High,Senior
+Nungambakkam,12.824055066004552,80.01171687629851,13,Low,Morning,Rainy,Low,6,Low,Teen
+Chengalpattu,12.852821193769428,80.28256444818344,14,Medium,Night,Clear,High,1,Extreme,Child
+Anna Nagar,13.145189609505104,80.06657217590427,7,Low,Evening,Snowy,Medium,0,Medium,Child
+Potheri,12.892926771186978,80.14532260253478,14,Extreme,Night,Rainy,High,1,Low,Adult
+Sholinganallur,12.995720153172131,80.1590906219212,18,Extreme,Morning,Clear,Medium,6,Extreme,Senior
+Adyar,12.936429483018218,80.15881528134189,18,High,Afternoon,Snowy,High,6,Medium,Teen
+T Nagar,12.997111889413574,80.08144548374929,14,Low,Evening,Foggy,High,2,Medium,Senior
+Nungambakkam,12.93828779180357,80.23633225235024,10,Extreme,Afternoon,Foggy,High,4,Medium,Adult
+Velachery,12.995931167866358,80.01407561523087,18,Medium,Morning,Foggy,High,4,Medium,Child
+T Nagar,12.815878789563275,80.12342359182952,8,Extreme,Morning,Snowy,Medium,3,Medium,Adult
+Guindy,12.957757534634432,80.26543460090934,7,Extreme,Night,Foggy,Low,2,Extreme,Child
+Nungambakkam,12.898798189505944,80.0082726586745,21,Medium,Night,Snowy,Low,2,High,Teen
+T Nagar,13.150610455826378,80.13441024264957,14,Extreme,Morning,Clear,High,8,Extreme,Child
+Nungambakkam,12.951562424550064,80.12767944930431,17,Extreme,Afternoon,Snowy,High,0,Low,Adult
+Tambaram,13.134832504744715,80.17356944217033,20,Low,Morning,Rainy,High,1,High,Adult
+Adyar,12.992387403831279,80.04611048464733,17,High,Afternoon,Rainy,High,5,High,Senior
+Mylapore,13.044897527864366,80.19434822328195,21,High,Night,Snowy,Low,5,Medium,Senior
+Potheri,12.978198147323154,80.12034118150726,25,High,Night,Clear,High,0,Low,Child
+Sholinganallur,13.058278053204495,80.14908310195186,13,High,Afternoon,Snowy,Medium,6,Extreme,Child
+Sholinganallur,13.138451411975867,80.18897385951834,14,Extreme,Afternoon,Snowy,Low,4,Medium,Adult
+Mylapore,13.183871959653427,80.040115777503,12,Medium,Morning,Clear,Medium,5,Medium,Senior
+Chengalpattu,13.057420625106973,80.22365965938926,15,Extreme,Afternoon,Rainy,High,0,Low,Teen
+Guindy,12.80928070774178,80.14916496597873,12,Medium,Night,Foggy,High,2,Medium,Child
+Anna Nagar,12.867481346569177,80.24530726888743,21,High,Night,Foggy,High,5,High,Adult
+Chengalpattu,12.930379569219127,80.1262693299195,19,Medium,Evening,Foggy,Medium,5,Low,Senior
+Velachery,13.048897057831153,80.2892199877289,17,Extreme,Afternoon,Rainy,High,7,Medium,Teen
+Velachery,12.990854215708511,80.14655245475582,19,Low,Morning,Snowy,Low,2,Low,Child
+Potheri,12.860188845889786,80.16796509755817,14,Medium,Morning,Foggy,Medium,7,Medium,Teen
+Adyar,12.955515575318117,80.25312710114783,13,High,Afternoon,Clear,High,6,Low,Teen
+Anna Nagar,13.194217041782538,80.21474847684661,17,Medium,Afternoon,Rainy,High,3,High,Child
+Sholinganallur,12.813404191517717,80.10659338788916,10,High,Evening,Rainy,Low,4,Low,Child
+Adyar,12.874805048008518,80.06387535290554,20,High,Evening,Foggy,Low,1,Low,Adult
+Mylapore,12.80295055078245,80.11405625408237,10,Extreme,Evening,Foggy,High,7,Low,Child
+Adyar,13.117757286686116,80.24028700221918,14,Extreme,Morning,Rainy,Medium,6,Low,Teen
+Perungudi,13.115250848997267,80.10330833056453,10,Medium,Morning,Foggy,Low,3,Medium,Adult
+Perungudi,13.102994686949543,80.17171492334157,14,Extreme,Evening,Rainy,Medium,9,Low,Adult
+Guindy,12.869181459303363,80.22160743366398,11,High,Night,Rainy,Medium,1,Low,Child
+Chengalpattu,13.084915668891778,80.16102742390203,14,Medium,Afternoon,Snowy,Low,5,Low,Senior
+Tambaram,13.114162518923964,80.18295160706715,16,High,Night,Foggy,High,5,Extreme,Teen
+Thiruvanmiyur,13.080893248383386,80.03683508264862,13,Medium,Morning,Snowy,Medium,4,High,Child
+Perungudi,13.100137149551957,80.17504991823036,12,High,Evening,Snowy,Low,6,Low,Child
+Guindy,13.116826709062781,80.19832566763915,11,Extreme,Night,Snowy,High,8,Extreme,Child
+Perungudi,13.083227848287907,80.01052470251132,8,Low,Morning,Foggy,High,2,Medium,Teen
+Anna Nagar,12.986115414390024,80.25022331280229,21,Extreme,Morning,Rainy,High,4,High,Senior
+Chengalpattu,13.127182609486681,80.01675471958039,10,Medium,Afternoon,Foggy,Medium,2,High,Senior
+T Nagar,12.97162935050022,80.18347700901289,13,Medium,Afternoon,Snowy,High,3,Medium,Senior
+T Nagar,12.98279934856485,80.18723284327571,10,Medium,Morning,Clear,Low,7,High,Child
+T Nagar,13.001362946975501,80.1634882216579,17,Medium,Night,Snowy,Medium,3,High,Teen
+Thiruvanmiyur,13.119752134788605,80.05768897221337,17,Extreme,Afternoon,Clear,Low,8,Low,Adult
+Thiruvanmiyur,13.124278927902985,80.2989277195772,21,Medium,Evening,Foggy,Medium,7,Low,Adult
+T Nagar,13.157476364440454,80.24650629178414,10,Medium,Morning,Foggy,High,1,High,Teen
+Velachery,12.878099180630123,80.13208669617356,24,Extreme,Afternoon,Snowy,High,8,Medium,Senior
+T Nagar,13.130500035740859,80.27305231945512,10,Low,Afternoon,Clear,Low,7,Low,Senior
+Sholinganallur,13.055110486743162,80.01747224515111,16,Extreme,Morning,Snowy,Medium,5,Extreme,Teen
+Nungambakkam,12.936936360005484,80.26546209067733,18,High,Morning,Foggy,Low,2,Extreme,Child
+Adyar,13.065191903759281,80.17443355851795,17,Extreme,Evening,Rainy,Low,9,Extreme,Adult
+Thiruvanmiyur,12.966253993309227,80.07545171878715,17,Low,Night,Rainy,Low,6,Medium,Senior
+Nungambakkam,12.817955258758367,80.16592707381253,9,Extreme,Evening,Clear,Low,7,Medium,Child
+T Nagar,13.165544010638996,80.29828182764462,19,Low,Evening,Rainy,Medium,5,High,Adult
+Velachery,13.172975085752206,80.0112841029942,23,High,Night,Snowy,Medium,9,High,Adult
+Anna Nagar,12.957273247002938,80.29272705138273,15,Medium,Afternoon,Snowy,Low,7,High,Teen
+T Nagar,12.863505394975638,80.20994617830432,13,High,Night,Clear,High,9,Low,Senior
+Chengalpattu,12.818592710660381,80.11389218507345,15,High,Evening,Foggy,High,0,Extreme,Teen
+Perungudi,12.97160960678993,80.00185467887869,16,Extreme,Night,Rainy,Low,2,High,Child
+T Nagar,12.949585470811375,80.27460221323763,14,High,Evening,Snowy,High,5,Extreme,Senior
+Perungudi,13.00407235626403,80.27681587966988,11,Extreme,Night,Clear,Medium,5,High,Child
+Perungudi,13.081895026507352,80.04847669239395,20,Extreme,Afternoon,Foggy,Medium,1,Medium,Senior
+Chengalpattu,12.912195405570557,80.17921556832772,15,High,Evening,Snowy,Low,6,High,Teen
+Nungambakkam,13.165515063371604,80.17180297964985,16,High,Night,Foggy,High,0,Low,Teen
+Adyar,12.846936957816295,80.14223381448991,16,High,Afternoon,Rainy,Medium,0,High,Child
+Perungudi,13.013549015634268,80.05643172058413,10,Low,Morning,Clear,High,7,Extreme,Teen
+Adyar,13.064366544966726,80.20038903997144,19,Medium,Morning,Clear,Medium,0,High,Senior
+Perungudi,12.809652817737167,80.10985883240501,15,Medium,Night,Snowy,High,2,High,Senior
+Sholinganallur,13.046419850557152,80.25378965630985,17,Extreme,Afternoon,Clear,High,3,Extreme,Senior
+Chengalpattu,12.969281122893998,80.00199995664553,14,Extreme,Night,Clear,Low,9,High,Teen
+Nungambakkam,12.961649089049438,80.07802559503604,16,High,Evening,Foggy,Medium,3,Low,Adult
+Anna Nagar,13.171398050512863,80.05110238455343,16,Low,Night,Rainy,Low,1,High,Senior
+Anna Nagar,13.04829968071683,80.09020976297461,11,Low,Evening,Rainy,Low,6,High,Teen
+Anna Nagar,12.952189272345086,80.08517751739804,11,Medium,Evening,Foggy,High,7,High,Adult
+Guindy,13.096418909278375,80.18469017632229,12,Extreme,Night,Foggy,Low,6,Extreme,Child
+Thiruvanmiyur,13.059451737249649,80.19527526555021,17,Low,Evening,Rainy,High,9,Medium,Adult
+Potheri,13.168802383898944,80.29659710928533,18,Low,Evening,Foggy,Medium,5,Medium,Adult
+Nungambakkam,12.998907016698594,80.05745432225454,14,Medium,Morning,Snowy,High,5,Extreme,Child
+Thiruvanmiyur,12.99780651346422,80.24935934784858,11,Medium,Afternoon,Snowy,High,0,High,Adult
+Adyar,12.97945000786593,80.1373280234981,15,High,Morning,Foggy,High,4,Extreme,Senior
+Nungambakkam,13.084838873195796,80.26695269762487,19,Extreme,Afternoon,Snowy,High,9,High,Adult
+Thiruvanmiyur,13.044994134580753,80.2105509495726,15,Extreme,Morning,Snowy,High,1,Low,Teen
+Thiruvanmiyur,13.002860373128973,80.24242871097847,18,Low,Morning,Clear,Low,6,Medium,Teen
+Thiruvanmiyur,13.046579304066093,80.23691613491359,16,High,Afternoon,Clear,High,5,Medium,Teen
+Guindy,13.11658689223497,80.11260244775455,12,Low,Morning,Foggy,Low,5,High,Teen
+Anna Nagar,13.008563380863198,80.06268152193444,17,Medium,Morning,Rainy,Medium,0,Extreme,Child
+Adyar,12.83670752885526,80.10939721720031,15,High,Evening,Snowy,Low,4,Medium,Child
+Guindy,12.862989517734125,80.27604299799083,18,High,Morning,Foggy,Medium,3,Low,Teen
+Adyar,12.804220220277529,80.22258419410221,17,Low,Afternoon,Rainy,Medium,8,Extreme,Senior
+Nungambakkam,13.16416061455612,80.27447988640122,12,Extreme,Morning,Snowy,Low,1,Low,Senior
+T Nagar,12.964290667910735,80.29622642848923,21,Low,Morning,Snowy,High,2,High,Teen
+Sholinganallur,13.08825361877921,80.14268234911769,18,Medium,Night,Foggy,High,5,Extreme,Senior
+Adyar,12.856283115072811,80.0014130426343,17,High,Night,Rainy,Medium,9,Extreme,Adult
+Sholinganallur,12.991856132824877,80.29637933621146,9,Medium,Evening,Rainy,Medium,9,High,Adult
+Mylapore,12.809557404906345,80.09314876124579,15,Low,Night,Foggy,Medium,6,High,Adult
+Guindy,13.115612449947623,80.2150675013873,14,Medium,Evening,Rainy,High,9,High,Senior
+Thiruvanmiyur,13.151530783675872,80.24687579420312,12,Medium,Afternoon,Clear,Medium,9,High,Adult
+Perungudi,13.151424740518607,80.07673911434449,12,Low,Afternoon,Foggy,Medium,2,Medium,Senior
+Potheri,13.152301106427991,80.1268948325457,14,Low,Night,Snowy,High,9,Extreme,Senior
+Adyar,13.163991481239432,80.02440651103005,20,Extreme,Evening,Snowy,Low,9,Low,Child
+Anna Nagar,12.920359847520466,80.19497254547366,11,Medium,Afternoon,Clear,Medium,0,Medium,Senior
+Chengalpattu,13.11020358930481,80.03135049368817,17,High,Afternoon,Foggy,High,5,High,Senior
+T Nagar,12.88214337428096,80.04616079053115,18,Medium,Night,Rainy,High,2,High,Adult
+Guindy,12.974328261867987,80.26343556309581,16,Medium,Night,Rainy,High,2,Medium,Child
+Guindy,13.088711451842954,80.23272416741518,12,Medium,Morning,Clear,Low,9,Medium,Senior
+Tambaram,13.036477607799437,80.01091510951068,14,Medium,Morning,Rainy,High,8,High,Adult
+Adyar,12.882205124125138,80.28620188615676,17,Medium,Morning,Snowy,High,6,High,Senior
+Tambaram,13.11478657647599,80.24207513634742,20,High,Afternoon,Snowy,Low,3,High,Adult
+T Nagar,12.977947005682624,80.0820158256413,3,Extreme,Morning,Foggy,Low,8,Medium,Senior
+Anna Nagar,12.88868855515941,80.29740547131463,13,High,Night,Rainy,High,5,Medium,Teen
+Anna Nagar,12.911508833580923,80.14884347489271,12,Extreme,Night,Rainy,High,8,Medium,Teen
+Adyar,12.937785416644013,80.14072873359022,13,Extreme,Afternoon,Snowy,Medium,8,High,Adult
+Anna Nagar,12.99266356404819,80.04526105695513,11,Low,Morning,Foggy,Medium,3,Medium,Adult
+Adyar,12.906740182717622,80.09497566410195,15,Extreme,Afternoon,Clear,High,8,Low,Teen
+Anna Nagar,12.87465477816899,80.09067461391675,17,Extreme,Evening,Clear,High,0,Extreme,Senior
+Adyar,13.016241913501153,80.12828949262145,9,High,Evening,Snowy,High,8,High,Child
+Perungudi,12.828471697088464,80.06627485516503,11,High,Evening,Foggy,Low,1,Extreme,Teen
+Thiruvanmiyur,13.178609014837273,80.12852313979387,12,Medium,Morning,Clear,High,9,Medium,Adult
+Guindy,13.105296066499914,80.25147795364353,17,Extreme,Morning,Clear,Low,3,High,Teen
+Perungudi,13.14282251803829,80.18034049608431,17,Extreme,Night,Foggy,Low,7,High,Senior
+Nungambakkam,12.906174739160718,80.22219248737494,14,Low,Evening,Snowy,Low,5,Low,Adult
+Velachery,13.009955981883508,80.13264671926242,8,Extreme,Afternoon,Clear,High,0,High,Child
+Chengalpattu,13.174889620417279,80.060573745983,20,High,Morning,Foggy,Medium,5,Medium,Child
+Nungambakkam,13.185819635873402,80.24475017586187,12,Medium,Afternoon,Snowy,Medium,0,High,Teen
+Perungudi,12.922440581048463,80.0949449754782,18,High,Night,Clear,Low,9,Low,Adult
+Thiruvanmiyur,13.019295946294951,80.13440369907353,15,Low,Night,Clear,Medium,4,Low,Child
+Tambaram,13.093998781067244,80.27523344113787,17,Low,Evening,Clear,Medium,8,Low,Child
+Anna Nagar,12.931451111431068,80.08401416871993,13,Medium,Night,Foggy,Low,6,High,Teen
+Nungambakkam,13.150764840053412,80.18542841142754,12,Extreme,Morning,Foggy,High,4,Medium,Adult
+Guindy,13.06643747292633,80.02119940324756,8,Low,Evening,Clear,High,7,Medium,Child
+Perungudi,12.953801464811477,80.2672441288466,12,Medium,Morning,Snowy,Medium,4,Medium,Adult
+T Nagar,13.155996856009049,80.20986833632875,16,Extreme,Morning,Clear,Medium,3,Extreme,Teen
+Perungudi,12.965522191363172,80.29674816732955,15,Medium,Afternoon,Rainy,Medium,5,Extreme,Adult
+Thiruvanmiyur,13.08390604685906,80.25579875540593,11,Medium,Night,Foggy,Medium,1,Medium,Child
+Chengalpattu,13.146182235387469,80.05718908383699,10,Extreme,Afternoon,Snowy,Low,7,Extreme,Senior
+Nungambakkam,12.807962312555777,80.23653107783396,9,Extreme,Evening,Snowy,High,0,Low,Child
+Chengalpattu,12.995445932182555,80.00643489834798,18,Medium,Afternoon,Foggy,High,6,Low,Adult
+Tambaram,13.034361485552155,80.17777207093337,14,High,Morning,Rainy,Medium,1,Low,Child
+Potheri,12.94220897252479,80.13034246801217,10,Low,Evening,Snowy,High,8,Low,Adult
+Anna Nagar,12.883123961114366,80.17286840339952,13,Medium,Evening,Rainy,Medium,8,Extreme,Adult
+Anna Nagar,13.077602339429172,80.29717819332674,17,Extreme,Afternoon,Rainy,High,7,Medium,Adult
+Mylapore,12.964668802066882,80.19454961935271,16,Extreme,Afternoon,Foggy,High,2,Extreme,Child
+Velachery,12.958056180093696,80.04198594808682,16,High,Afternoon,Snowy,High,3,High,Senior
+Chengalpattu,12.853716652563746,80.19366466949563,8,Low,Afternoon,Snowy,High,0,Low,Teen
+T Nagar,13.038371454826745,80.11755889505092,15,Low,Night,Rainy,Low,1,High,Teen
+Perungudi,13.150521284772534,80.14480323488974,15,High,Afternoon,Clear,High,3,Medium,Child
+Perungudi,12.94732932322743,80.18930567482474,17,High,Night,Snowy,High,0,Extreme,Senior
+Adyar,13.021368294520585,80.18643993706148,11,Extreme,Evening,Foggy,Medium,7,Extreme,Teen
+Potheri,12.848438488936187,80.17209566687703,18,Medium,Night,Rainy,High,9,Medium,Teen
+Anna Nagar,13.033222405440885,80.19698478014222,20,Low,Afternoon,Rainy,Low,5,Medium,Child
+Nungambakkam,13.147043854156678,80.01683472294013,19,Medium,Afternoon,Snowy,High,2,Medium,Teen
+Anna Nagar,12.997538250064498,80.18830232328256,13,Low,Morning,Snowy,Low,1,Medium,Child
+Chengalpattu,13.15957205343111,80.29738465716036,18,Medium,Night,Snowy,Medium,4,High,Senior
+Perungudi,12.99530136359394,80.03752196638531,19,Extreme,Night,Clear,High,5,Extreme,Child
+Potheri,13.175587191555161,80.06367384150384,11,Medium,Morning,Clear,Medium,5,Extreme,Senior
+Velachery,12.957797248375023,80.15699562025914,13,High,Evening,Foggy,High,8,Low,Senior
+Chengalpattu,13.162072267759104,80.29696912935113,17,Low,Morning,Rainy,High,4,Low,Child
+Guindy,13.187997855579049,80.24963532903514,23,Medium,Evening,Foggy,Medium,4,Low,Senior
+Mylapore,12.866070923016549,80.10553227816875,17,Low,Afternoon,Rainy,High,0,High,Teen
+Perungudi,13.088326168864036,80.11158808455475,18,Low,Morning,Clear,Low,9,Extreme,Teen
+Perungudi,13.073115197092555,80.02476073641351,15,Medium,Morning,Rainy,High,0,High,Child
+Perungudi,12.815372413493206,80.26221646704333,14,Low,Evening,Clear,Low,0,High,Teen
+Guindy,13.134523701200509,80.05396477285117,15,Medium,Afternoon,Clear,High,4,High,Adult
+Tambaram,13.105245330099784,80.23578559034083,14,Low,Afternoon,Snowy,Medium,2,Extreme,Child
+T Nagar,12.976855286232707,80.16200941360222,20,Extreme,Afternoon,Clear,High,0,Medium,Senior
+Tambaram,13.040082351568326,80.16926764711381,17,Low,Evening,Rainy,Low,1,Extreme,Child
+Chengalpattu,13.15398918316821,80.19269781542744,12,Medium,Morning,Clear,Low,9,Medium,Adult
+Potheri,13.163239321355652,80.09047420956442,17,Low,Evening,Foggy,Low,8,Extreme,Teen
+Guindy,12.936450985661327,80.23613229416307,15,Extreme,Night,Snowy,Low,4,Extreme,Teen
+Tambaram,13.00849202862393,80.13869781182127,16,Extreme,Morning,Snowy,Medium,6,High,Adult
+Anna Nagar,13.060184099624268,80.09030623454032,12,Medium,Evening,Rainy,Medium,7,Medium,Teen
+Anna Nagar,13.153516805022598,80.09765316973984,16,Extreme,Morning,Foggy,High,1,Low,Child
+Chengalpattu,13.14033155953622,80.08215704603408,16,Medium,Evening,Rainy,Medium,8,Medium,Child
+Velachery,12.97440550967298,80.09429159124318,7,Low,Night,Clear,Low,2,Low,Senior
+Chengalpattu,13.131679003662278,80.16448336745489,16,Medium,Afternoon,Foggy,Medium,8,Medium,Senior
+Mylapore,12.963891731093547,80.0439097415056,11,Medium,Evening,Rainy,Low,2,Extreme,Child
+Adyar,13.018825754399668,80.22005549222459,9,Medium,Afternoon,Clear,Low,1,Low,Teen
+Thiruvanmiyur,13.188467632477334,80.112964735562,12,Medium,Night,Foggy,Medium,2,Medium,Teen
+T Nagar,13.089549867690419,80.04623352446819,16,Extreme,Night,Clear,Medium,2,Low,Child
+Adyar,12.889266447770169,80.03060963655511,9,Extreme,Evening,Rainy,Medium,0,High,Teen
+Chengalpattu,12.991042005235421,80.27714738155913,13,Extreme,Morning,Foggy,High,0,Medium,Senior
+Nungambakkam,12.986093999480138,80.11018260340917,20,Extreme,Evening,Foggy,Low,7,High,Adult
+T Nagar,13.18295964039336,80.03416997970596,15,High,Night,Foggy,High,3,Extreme,Child
+Mylapore,12.875467401353918,80.00095552905869,12,Medium,Morning,Clear,Medium,6,Extreme,Adult
+Perungudi,12.947057108633338,80.22252646288726,13,High,Morning,Snowy,Medium,7,Low,Senior
+Adyar,12.815370598061406,80.11911882992075,14,Low,Morning,Foggy,High,7,Medium,Child
+Perungudi,13.120927803654652,80.2770785366731,17,Medium,Morning,Rainy,High,1,Extreme,Adult
+Anna Nagar,13.135588113271515,80.29884709264408,16,Medium,Morning,Foggy,Medium,0,Low,Adult
+T Nagar,13.01698097880981,80.20635848576083,12,High,Morning,Foggy,Low,9,Low,Adult
+Guindy,13.062682397394916,80.16615212474123,18,High,Evening,Foggy,Medium,4,Low,Teen
+Nungambakkam,13.017314357097467,80.20321458287441,14,High,Afternoon,Snowy,Low,2,High,Child
+Potheri,12.850147299030118,80.16870368911604,11,Medium,Morning,Snowy,Medium,6,Low,Teen
+Chengalpattu,12.972922048262346,80.27893365559734,6,Extreme,Afternoon,Rainy,Medium,9,Low,Child
+T Nagar,12.959038950913827,80.200546880607,18,Low,Night,Clear,Medium,7,High,Teen
+Sholinganallur,12.950306636423965,80.08883451322966,9,High,Afternoon,Snowy,High,6,Extreme,Senior
+Nungambakkam,13.179995252030205,80.1893651801832,16,Low,Morning,Foggy,High,2,High,Teen
+Tambaram,12.98317809856229,80.21250903951623,17,Low,Afternoon,Snowy,Low,8,High,Teen
+Chengalpattu,12.846056566652747,80.00334060833048,12,Medium,Afternoon,Foggy,Medium,8,High,Teen
+Potheri,12.886661764083803,80.08977360158157,18,Medium,Evening,Snowy,High,9,Medium,Adult
+Anna Nagar,12.86644342984457,80.2445688071062,11,Medium,Afternoon,Clear,Medium,4,Extreme,Senior
+T Nagar,12.904252716740329,80.09007603278613,15,High,Night,Foggy,Low,1,High,Child
+T Nagar,13.174630469533003,80.00613480730773,19,Medium,Afternoon,Clear,Low,2,Medium,Teen
+Anna Nagar,13.133373367695162,80.21799282039761,15,Medium,Morning,Snowy,High,7,Medium,Senior
+Nungambakkam,13.11783050421905,80.22644954427466,14,Medium,Night,Clear,Medium,6,Extreme,Senior
+Potheri,12.995950135027885,80.29548581462089,18,High,Night,Clear,Medium,9,Medium,Child
+Nungambakkam,13.181258334300063,80.0180692876154,17,Low,Night,Rainy,High,5,Medium,Senior
+Tambaram,13.183862786270128,80.08976100013155,12,Extreme,Night,Clear,Medium,2,Extreme,Teen
+Anna Nagar,13.176400598324092,80.05500273231766,15,Low,Evening,Clear,High,0,Extreme,Adult
+Thiruvanmiyur,12.846096114835822,80.16504364905742,17,Extreme,Evening,Rainy,Low,1,Low,Child
+Perungudi,13.169867523970892,80.26900224601113,14,Extreme,Night,Rainy,Low,5,High,Child
+Nungambakkam,13.074968797593256,80.12567206736306,16,Extreme,Morning,Clear,High,0,Medium,Senior
+Tambaram,13.129123919287814,80.14135161584682,10,Extreme,Afternoon,Clear,Low,5,Medium,Adult
+Thiruvanmiyur,13.035614854767019,80.12369598807456,16,Extreme,Night,Clear,Low,2,Extreme,Senior
+Potheri,12.980166017596083,80.19372829753522,25,Medium,Morning,Snowy,Low,8,High,Adult
+Nungambakkam,13.03900991738594,80.25369335544944,14,Medium,Afternoon,Foggy,Low,0,Low,Adult
+Tambaram,12.823977715013731,80.1880082396079,16,Medium,Morning,Clear,Medium,6,Low,Adult
+Potheri,12.960801805820259,80.19834452766702,24,Extreme,Afternoon,Snowy,Low,0,Medium,Adult
+Sholinganallur,12.876400152898821,80.25007547687665,12,High,Evening,Rainy,Low,7,Low,Teen
+Chengalpattu,12.860747350344791,80.08061948537579,17,Medium,Evening,Foggy,Medium,8,High,Adult
+Velachery,12.950209476771247,80.08229428954598,15,Medium,Afternoon,Clear,Medium,4,Medium,Child
+Sholinganallur,12.921945892603699,80.01342330341764,23,Extreme,Night,Snowy,Medium,2,Extreme,Senior
+Mylapore,12.912019266807533,80.10354537356221,16,Extreme,Evening,Snowy,High,3,Extreme,Teen
+Nungambakkam,13.007779916847975,80.21731396910465,12,Medium,Afternoon,Clear,Low,4,Extreme,Adult
+Potheri,13.075997028572276,80.17495787514207,12,Extreme,Night,Clear,High,2,High,Child
+Tambaram,12.992272462974785,80.10772739001655,12,Extreme,Morning,Clear,Low,0,High,Senior
+Guindy,12.931246178055433,80.12900138993005,23,Medium,Evening,Clear,High,6,Low,Senior
+Potheri,13.082924440286336,80.12695447179956,11,Extreme,Morning,Rainy,Medium,0,Low,Child
+Guindy,13.022467984046395,80.19247718092697,16,High,Evening,Foggy,High,4,High,Child
+Chengalpattu,13.005130217357014,80.23695678863704,19,Extreme,Evening,Foggy,Medium,9,Medium,Teen
+Tambaram,12.948523609507086,80.01949244943657,11,Medium,Afternoon,Clear,Medium,5,High,Teen
+Velachery,12.823989643472729,80.19738661501817,17,Low,Evening,Rainy,Low,8,High,Child
+Guindy,13.017641441253534,80.05530540328694,15,Low,Evening,Rainy,High,9,Extreme,Senior
+Potheri,13.00316967333957,80.027529411269,9,Low,Night,Clear,Medium,0,High,Adult
+Sholinganallur,12.929863142993087,80.00583895477826,18,Medium,Night,Snowy,High,6,Medium,Child
+Mylapore,12.896428182782802,80.04441978938453,18,Low,Evening,Snowy,Low,1,High,Adult
+Thiruvanmiyur,13.025229530594054,80.24698442332159,15,Extreme,Evening,Clear,Medium,8,Low,Adult
+Tambaram,12.976443587238764,80.11977944436842,15,Low,Morning,Clear,Medium,2,High,Child
+Adyar,12.897013383929245,80.13220143257644,14,Medium,Evening,Rainy,Low,0,Low,Senior
+T Nagar,12.87049127442674,80.07970050027268,8,Low,Evening,Rainy,High,1,Low,Teen
+Mylapore,13.003349469426126,80.0206889808976,14,High,Afternoon,Rainy,Medium,6,Low,Teen
+Tambaram,12.842118192447472,80.22517247126738,16,Extreme,Evening,Snowy,High,4,High,Adult
+Sholinganallur,13.03546208997821,80.17671624860544,23,Low,Morning,Rainy,High,4,Extreme,Teen
+Tambaram,13.19082838292398,80.28649158066418,19,Low,Evening,Rainy,Low,6,High,Teen
+Thiruvanmiyur,13.10318119421343,80.25756458616713,9,High,Afternoon,Snowy,High,4,Low,Teen
+Chengalpattu,13.001832172410577,80.07008476453579,18,Medium,Morning,Foggy,Medium,5,Low,Adult
+Tambaram,13.149594805832352,80.11785439731193,19,Medium,Afternoon,Snowy,High,9,Medium,Senior
+Guindy,12.887275111199822,80.1598627171595,16,Low,Afternoon,Foggy,High,1,High,Senior
+Mylapore,12.884744583763505,80.18111539523824,20,Medium,Evening,Foggy,High,1,High,Teen
+Adyar,13.19914944521524,80.25192400954943,20,Medium,Night,Rainy,Low,2,Medium,Teen
+Potheri,12.930866763467867,80.12415742765556,18,Extreme,Evening,Clear,High,2,Extreme,Senior
+Nungambakkam,13.065319326203788,80.01737663079088,16,Low,Night,Clear,Medium,3,Extreme,Adult
+Thiruvanmiyur,12.864269337354278,80.20747584556827,14,Extreme,Night,Snowy,Medium,3,Extreme,Teen
+Tambaram,12.823269262486278,80.178539203488,14,High,Night,Clear,Medium,6,Extreme,Senior
+Nungambakkam,13.029474043562336,80.2604668315428,13,Medium,Afternoon,Foggy,Medium,4,Extreme,Child
+Velachery,13.161414408494625,80.0650507080634,13,Low,Night,Snowy,High,1,High,Adult
+T Nagar,13.035373897435127,80.20560963610318,17,High,Afternoon,Snowy,Low,6,Extreme,Child
+T Nagar,13.185355692114994,80.15045966862982,7,Low,Afternoon,Clear,Medium,0,Low,Child
+Guindy,12.938102951853681,80.17113862860622,23,Low,Morning,Snowy,Medium,4,High,Senior
+Nungambakkam,13.166459897735953,80.03561019526614,19,Medium,Evening,Foggy,High,8,Extreme,Senior
+Anna Nagar,12.886654622183062,80.14311828185079,18,Medium,Morning,Snowy,Low,2,Low,Senior
+Guindy,12.949113410469481,80.1690521789106,18,High,Morning,Foggy,Low,1,Medium,Senior
+Guindy,12.89745915726869,80.14934011300413,12,High,Night,Foggy,High,5,Medium,Child
+Sholinganallur,13.19680270334604,80.20881286425826,12,High,Evening,Foggy,Low,3,Medium,Senior
+Velachery,13.081862941239393,80.11421654291347,19,High,Night,Foggy,High,1,Low,Senior
+Perungudi,12.868566533732803,80.09296223781602,15,Medium,Evening,Foggy,High,5,Low,Adult
+Adyar,13.164969723275233,80.22933343321623,12,High,Afternoon,Snowy,Medium,9,High,Teen
+Adyar,12.826439250210466,80.06692669291084,18,Extreme,Night,Foggy,Medium,9,Extreme,Teen
+T Nagar,12.81073837950346,80.13047336980577,18,High,Afternoon,Snowy,High,0,High,Senior
+Adyar,13.000828829349539,80.18092533611575,10,Extreme,Evening,Rainy,Low,8,Medium,Adult
+Tambaram,12.933951492319409,80.28730784812163,27,Low,Evening,Rainy,Low,6,High,Teen
+Perungudi,12.91519636077294,80.02909557622385,17,Extreme,Evening,Rainy,Medium,1,Low,Adult
+Adyar,13.097541698651783,80.13494912990268,16,Medium,Night,Rainy,High,5,Extreme,Teen
+Velachery,12.951503348992762,80.27768518131046,18,Low,Morning,Foggy,Low,2,Extreme,Child
+Sholinganallur,12.891298504990688,80.14322450757255,26,Medium,Night,Rainy,Medium,4,Medium,Senior
+T Nagar,12.846067123118045,80.00060787937167,18,Extreme,Morning,Clear,Medium,0,Medium,Child
+Thiruvanmiyur,12.890570477988701,80.05889017415741,13,Medium,Night,Snowy,Medium,5,Medium,Adult
+Chengalpattu,13.19997435176244,80.26582736984146,20,High,Morning,Foggy,Low,7,Low,Senior
+Perungudi,12.838662760706894,80.1214504773235,13,Low,Afternoon,Snowy,High,3,High,Teen
+Mylapore,12.912348408875362,80.0464874390545,11,Medium,Night,Foggy,High,0,Medium,Teen
+Thiruvanmiyur,13.167152655397391,80.29147807938034,16,High,Night,Snowy,Low,6,Extreme,Adult
+Velachery,13.075724949576726,80.24092070359997,17,Low,Night,Clear,Medium,3,High,Adult
+Anna Nagar,13.020613110432182,80.23952625650264,16,High,Evening,Snowy,Low,1,Medium,Child
+Perungudi,13.133645930394993,80.24340529150324,24,Low,Morning,Foggy,Low,9,High,Adult
+Guindy,13.072802637835984,80.03991606743001,13,Low,Morning,Clear,Low,0,Medium,Adult
+T Nagar,13.144757447369257,80.28001242208808,18,Medium,Afternoon,Foggy,High,6,High,Senior
+Mylapore,13.098482603614443,80.12180544000692,15,High,Afternoon,Clear,Medium,6,Medium,Teen
+Velachery,12.993740997444167,80.13259722003953,13,Medium,Morning,Rainy,High,0,Extreme,Senior
+Potheri,12.992124618653959,80.23972320671174,16,Extreme,Morning,Foggy,Medium,0,Medium,Senior
+Thiruvanmiyur,12.808578772724564,80.16467420483191,12,Extreme,Morning,Clear,Low,1,Medium,Teen
+Tambaram,13.186217428518942,80.04085433614634,18,High,Afternoon,Rainy,High,1,Low,Senior
+Sholinganallur,12.828533556112708,80.25322117868829,13,Low,Morning,Snowy,Low,5,Medium,Senior
+Guindy,12.983189322810915,80.16907999834554,21,Extreme,Evening,Foggy,High,1,Medium,Teen
+Mylapore,12.8774012168515,80.08133129288076,17,Medium,Morning,Rainy,Low,8,Medium,Child
+Chengalpattu,12.802264990350197,80.19552674995481,14,Extreme,Afternoon,Snowy,High,1,Extreme,Child
+Anna Nagar,12.939994821954455,80.2484146142497,17,Low,Afternoon,Clear,Medium,9,Low,Teen
+Mylapore,12.940151486076667,80.01551414268832,12,Medium,Evening,Snowy,Low,5,High,Senior
+Nungambakkam,13.120080589233629,80.08681147647428,14,Medium,Evening,Foggy,Low,9,Extreme,Senior
+Potheri,13.077248619509582,80.19077112933282,15,Low,Afternoon,Clear,Low,2,Extreme,Child
+Nungambakkam,13.097954609680503,80.05542997163624,12,Medium,Evening,Snowy,Low,5,Extreme,Senior
+Guindy,12.878170161536733,80.1726156040566,14,Low,Afternoon,Clear,Low,8,High,Teen
+Guindy,13.122550578179947,80.2557663327239,21,Extreme,Night,Foggy,Low,0,Extreme,Teen
+Chengalpattu,12.98796919632511,80.0189576812681,11,High,Afternoon,Rainy,Medium,9,High,Teen
+Velachery,13.091816598985874,80.14035980848317,15,High,Evening,Clear,High,6,Extreme,Senior
+Thiruvanmiyur,12.992525723479677,80.0955810923626,19,High,Evening,Rainy,Medium,4,Low,Senior
+Sholinganallur,12.846791098615434,80.05044929415733,14,Medium,Night,Rainy,High,6,Medium,Child
+Nungambakkam,13.148242382012576,80.22713442089862,11,High,Afternoon,Rainy,Low,6,Extreme,Adult
+Perungudi,12.926669066221733,80.18857931326133,19,Low,Evening,Foggy,Low,0,Medium,Child
+Sholinganallur,13.031215331278911,80.18527074887353,13,Extreme,Evening,Foggy,Low,3,High,Senior
+Nungambakkam,13.191955910164033,80.1479925692429,19,Low,Afternoon,Clear,Medium,4,Extreme,Senior
+Chengalpattu,13.050858200896018,80.10271184719393,11,Extreme,Morning,Snowy,Low,7,Extreme,Child
+Thiruvanmiyur,12.971444065519288,80.19926311052937,12,Medium,Evening,Clear,Low,2,High,Senior
+Adyar,12.887232248844544,80.09155275836214,16,High,Morning,Snowy,Low,5,High,Adult
+Chengalpattu,12.866380278216083,80.11927807875357,18,Extreme,Night,Rainy,Medium,9,Low,Senior
+Guindy,12.86223870907062,80.22551905185966,17,Low,Night,Snowy,High,7,Low,Senior
+Perungudi,13.018491602176299,80.07635993903129,12,Low,Evening,Rainy,High,3,Extreme,Child
+Thiruvanmiyur,13.028647634691133,80.22762769213077,14,High,Evening,Rainy,High,1,Extreme,Senior
+Sholinganallur,12.834470479761636,80.22470434957371,20,Extreme,Afternoon,Foggy,High,2,Extreme,Adult
+Adyar,12.9867493373502,80.02756954435452,12,Extreme,Night,Rainy,High,4,High,Senior
+Mylapore,13.131044537784732,80.04300343670465,11,Low,Evening,Snowy,Low,4,Low,Senior
+Potheri,12.975212270450436,80.1665993856103,16,Extreme,Morning,Snowy,High,1,Medium,Teen
+Anna Nagar,13.195349057755353,80.13624626766679,9,High,Afternoon,Clear,Medium,9,Low,Teen
+T Nagar,13.050916192751687,80.17159465600432,15,High,Night,Rainy,High,2,Low,Senior
+Sholinganallur,13.064324475570782,80.0742191103906,14,High,Evening,Clear,Medium,9,Extreme,Senior
+Guindy,13.161850887463787,80.13719623650545,12,Medium,Afternoon,Foggy,Low,3,Medium,Adult
+Perungudi,12.843187255089509,80.02472307952154,21,Extreme,Night,Rainy,Medium,4,Extreme,Teen
+Adyar,12.945373554878646,80.13933150639137,16,High,Afternoon,Foggy,High,4,Low,Adult
+Adyar,13.039430334094584,80.02664678807011,13,High,Night,Rainy,Low,7,Medium,Adult
+Adyar,12.925036560190401,80.2648291591125,15,Medium,Morning,Foggy,Low,0,High,Adult
+Mylapore,12.894821478124388,80.03204309610902,16,Extreme,Night,Rainy,Low,9,Medium,Teen
+T Nagar,13.056156861083027,80.16703764136885,17,High,Evening,Foggy,Low,8,Low,Adult
+T Nagar,12.848635496014033,80.02231670137363,20,High,Afternoon,Clear,High,8,Extreme,Adult
+Potheri,12.863136809168532,80.15647696786829,19,High,Evening,Clear,Low,8,Extreme,Senior
+Sholinganallur,13.054456441435079,80.1470790243892,11,Medium,Morning,Clear,High,4,High,Child
+Adyar,12.931065894635791,80.2647701617956,13,Medium,Afternoon,Foggy,Medium,7,High,Child
+Perungudi,12.852930735896688,80.05746010028447,15,High,Night,Rainy,Medium,6,Low,Adult
+T Nagar,12.929718714071399,80.2289818140333,16,High,Night,Foggy,Medium,4,High,Adult
+Mylapore,12.943418330778885,80.24669283417151,11,Low,Morning,Rainy,Medium,5,Extreme,Adult
+Guindy,13.150677683121787,80.03131973472576,10,Extreme,Night,Rainy,Low,0,High,Adult
+Mylapore,12.94661140091367,80.1446239861206,15,Medium,Night,Foggy,Low,5,High,Teen
+T Nagar,13.179681464898552,80.28561722447458,12,Extreme,Night,Foggy,Low,2,High,Adult
+Adyar,13.00157483435724,80.06787234331335,15,High,Evening,Clear,Medium,6,High,Adult
+Adyar,13.000149777020875,80.06924524110637,8,Medium,Night,Foggy,High,8,Extreme,Adult
+Potheri,12.874754504863231,80.28801354965573,17,Low,Afternoon,Foggy,High,2,High,Senior
+Chengalpattu,13.007553046481593,80.24319837629656,11,Medium,Afternoon,Clear,High,5,Low,Child
+Mylapore,13.16974606455795,80.21207882228936,22,High,Evening,Rainy,High,6,Medium,Child
+Anna Nagar,12.817523105226611,80.27184973710122,13,High,Afternoon,Clear,High,8,High,Teen
+Sholinganallur,12.901738097548717,80.06842080882262,9,Extreme,Evening,Foggy,High,6,High,Senior
+Thiruvanmiyur,13.124245709610461,80.03714735823633,13,Medium,Afternoon,Snowy,Medium,9,Extreme,Senior
+Nungambakkam,12.886255595573374,80.1268952062731,18,Medium,Evening,Rainy,Low,1,Extreme,Adult
+Nungambakkam,13.074593260212218,80.29055823738304,11,Extreme,Afternoon,Foggy,High,1,High,Senior
+Anna Nagar,12.967473810207515,80.23224355035543,13,Extreme,Morning,Rainy,High,9,Extreme,Child
+Perungudi,13.007484309168163,80.15526926692286,17,Medium,Afternoon,Snowy,High,0,Medium,Senior
+Mylapore,12.85040947770717,80.29972873293443,13,Medium,Evening,Clear,Medium,0,Extreme,Adult
+Chengalpattu,12.802354240964016,80.00559674664133,13,Low,Evening,Rainy,Low,9,Low,Child
+Potheri,12.87777359034776,80.17600348817149,16,Medium,Night,Foggy,High,5,High,Senior
+Adyar,12.963688372112717,80.02107562985488,15,Extreme,Morning,Rainy,Low,7,Extreme,Teen
+Guindy,13.111936681031718,80.27762503334698,12,Extreme,Night,Snowy,Medium,5,Medium,Adult
+T Nagar,12.839319938933613,80.27778508484448,12,High,Night,Foggy,Low,9,Extreme,Senior
+Sholinganallur,13.026621181590682,80.24051262793888,13,Medium,Evening,Rainy,High,8,High,Teen
+Perungudi,12.951610632027247,80.16795607020937,15,Extreme,Morning,Clear,High,1,Extreme,Teen
+Mylapore,13.121527877851088,80.24545769969,10,Extreme,Afternoon,Snowy,High,4,High,Teen
+Tambaram,13.192486846641147,80.2809911098364,10,Medium,Afternoon,Rainy,Low,6,Extreme,Teen
+Anna Nagar,12.984143019023321,80.21264067429047,16,High,Afternoon,Rainy,High,8,Extreme,Adult
+Thiruvanmiyur,13.111328392053563,80.29725594099293,13,Extreme,Morning,Foggy,Medium,4,Extreme,Senior
+Sholinganallur,12.854131673172644,80.02329260633795,10,High,Night,Rainy,Low,5,Low,Adult
+T Nagar,13.152692894477179,80.16127133994,16,Extreme,Night,Clear,Medium,7,Medium,Child
+Velachery,13.096608887042487,80.22495140475375,20,Medium,Evening,Foggy,Low,9,Medium,Child
+T Nagar,13.035394973143939,80.18505569014923,18,High,Evening,Snowy,Low,5,Low,Child
+Guindy,12.93750347049056,80.10126353583922,11,Medium,Morning,Rainy,High,0,Low,Teen
+T Nagar,12.805779554536766,80.15109865295337,16,Extreme,Morning,Rainy,Low,7,Extreme,Child
+Nungambakkam,12.805143790897391,80.2000117186432,17,High,Night,Rainy,Low,3,Medium,Teen
+Perungudi,12.819531833106675,80.25740660964645,17,Medium,Afternoon,Foggy,High,1,Medium,Adult
+Potheri,13.113592928708663,80.10241669525324,16,Medium,Evening,Clear,High,9,Low,Adult
+Adyar,12.95235504799534,80.09535079538277,15,High,Afternoon,Foggy,Medium,2,High,Adult
+T Nagar,13.197220028826761,80.10664198241905,17,Extreme,Afternoon,Rainy,High,0,High,Adult
+Velachery,12.895715218969793,80.24553276975844,16,Medium,Night,Snowy,Medium,2,Low,Child
+Thiruvanmiyur,12.869006092491485,80.14485006195706,16,High,Night,Snowy,High,5,Low,Senior
+Sholinganallur,12.933007989109484,80.07410084362232,12,High,Night,Foggy,High,4,Medium,Child
+Thiruvanmiyur,13.171711506764662,80.02715201552326,18,Low,Evening,Rainy,Medium,4,Low,Adult
+T Nagar,12.953431948271621,80.01156889868814,18,High,Night,Snowy,High,2,Low,Teen
+Perungudi,13.01116163512462,80.24975757404188,12,Medium,Afternoon,Clear,High,9,High,Adult
+Chengalpattu,13.18342174608715,80.03788938425646,13,Extreme,Evening,Clear,High,0,High,Senior
+T Nagar,12.988146957967688,80.10139768523433,19,Low,Morning,Rainy,High,3,Medium,Teen
+Thiruvanmiyur,13.152901317848354,80.10706194480976,15,Medium,Morning,Foggy,Low,2,Extreme,Child
+Chengalpattu,13.01965244594957,80.15963836634504,17,Extreme,Evening,Clear,High,2,Medium,Teen
+Tambaram,12.818542968393432,80.12377055620343,20,Extreme,Morning,Rainy,High,8,Extreme,Senior
+T Nagar,12.840362538108112,80.19817976450314,11,High,Morning,Foggy,Medium,2,Low,Adult
+Mylapore,13.173709560893327,80.25248856639205,8,Medium,Night,Rainy,Medium,4,Extreme,Senior
+Sholinganallur,12.967812427281551,80.16173822532373,10,Medium,Night,Snowy,Medium,2,Low,Senior
+Potheri,13.065258406679671,80.02749250512973,15,High,Afternoon,Foggy,Medium,8,Medium,Senior
+Mylapore,12.925918959629259,80.26334415271019,17,High,Afternoon,Rainy,Medium,2,Low,Senior
+Potheri,13.045187523468718,80.2992828746603,19,Extreme,Evening,Snowy,Low,6,High,Child
+Guindy,12.834957777878778,80.19663098827455,10,Extreme,Evening,Foggy,Low,1,Low,Teen

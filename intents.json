@@ -1,0 +1,129 @@
+{
+    "intents": [
+      {
+        "tag": "greeting",
+        "patterns": [
+          "Hi",
+          "Hey",
+          "Is anyone there?",
+          "Hello there",
+          "Good day",
+          "How's it going?",
+          "Is anyone on?",
+          "Hola",
+          "Hello"
+        ],
+        "responses": [
+          "Hello! I'm here to listen. How can I assist you today?",
+          "Hi there, how are you feeling right now?",
+          "Hello, I'm here to help. What would you like to talk about?"
+        ]
+      },
+      {
+        "tag": "support_request",
+        "patterns": [
+          "I need to talk",
+          "Something happened",
+          "Can I share something personal?",
+          "I've been feeling uncomfortable about an experience",
+          "Can we talk about something difficult?",
+          "I need help with what I'm feeling"
+        ],
+        "responses": [
+          "I'm here to listen. Please tell me what's on your mind.",
+          "Of course, I'm here to help you. Feel free to share what you're comfortable with.",
+          "You can share anything here. What's been going on?"
+        ]
+      },
+      {
+        "tag": "specific_incident",
+        "patterns": [
+          "I was touched inappropriately",
+          "Someone didn't respect my boundaries",
+          "I was sexually assaulted",
+          "I was raped",
+          "I experienced harassment at work",
+          "Someone I know violated me"
+        ],
+        "responses": [
+          "I'm incredibly sorry to hear this happened. It's important to talk about these feelings. Are you safe right now?",
+          "That's a very serious and distressing experience. Do you want to discuss how it has made you feel?",
+          "I'm here for you. We can talk as much or as little as you're comfortable with about what happened."
+        ]
+      },
+      {
+        "tag": "seeking_counseling",
+        "patterns": [
+          "Should I see a therapist?",
+          "Do I need professional help?",
+          "Is counseling a good idea?",
+          "What type of support is there for assault survivors?",
+          "How can therapy help me?"
+        ],
+        "responses": [
+          "Talking to a professional can be very beneficial. They can provide you with support and coping strategies. Would you like help finding a therapist?",
+          "It might be good to consider therapy. It offers a safe space to explore your feelings and heal.",
+          "Counseling can be very helpful for assault survivors by providing a way to process your experiences and feelings."
+        ]
+      },
+      {
+        "tag": "coping_strategies",
+        "patterns": [
+          "How do I cope with this?",
+          "Are there techniques to help me feel better?",
+          "How can I start to heal?",
+          "What are some coping methods?",
+          "I don't know how to handle this"
+        ],
+        "responses": [
+          "It's important to take things one step at a time. Breathing exercises and grounding techniques can be very helpful. Would you like more details?",
+          "Healing from such experiences takes time and care. Mindfulness and self-care activities can be beneficial. Shall we explore some options?",
+          "Coping can be challenging, but you're not alone. Engaging in gentle physical activities like walking or yoga can help. Also, consider journaling your thoughts."
+        ]
+      },
+      {
+        "tag": "emergency",
+        "patterns": [
+          "I feel like giving up",
+          "I can't do this anymore",
+          "I'm thinking about hurting myself",
+          "I have suicidal thoughts",
+          "I am going to suicide",
+          "It's all too much"
+        ],
+        "responses": [
+          "It sounds like you're going through a really tough time. It's important to talk to someone who can provide immediate help. Can you call a crisis hotline or go to the nearest emergency room?",
+          "I'm sorry to hear you're feeling so overwhelmed. Help is available. Let's find you immediate support. It's important to talk to someone who can help right away."
+        ]
+      },
+      {
+        "tag": "validation",
+        "patterns": [
+          "No one believes me",
+          "I feel so alone",
+          "Nobody understands",
+          "It's like I'm invisible",
+          "Why did this happen to me?"
+        ],
+        "responses": [
+          "You are not alone in this. I believe you, and what you're feeling is valid. It's okay to feel this way, and there is support out there for you.",
+          "Feeling isolated is understandable given what you've been through. I'm here to support you, and I believe you."
+        ]
+      },
+      {
+        "tag": "goodbye",
+        "patterns": [
+          "Thank you for listening",
+          "That's all for now",
+          "I feel a bit better now",
+          "I have to go now",
+          "Thanks for the help"
+        ],
+        "responses": [
+          "You're welcome! Don't hesitate to return if you need to talk more. Take care of yourself.",
+          "I'm glad you're feeling a little better. Remember, I'm here whenever you need to talk."
+        ]
+      }
+    ]
+  }
+  
