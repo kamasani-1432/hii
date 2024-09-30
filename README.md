@@ -6,6 +6,6 @@ echnical Approach (Technologies Used)
 ⚬ Frontend: Streamlit
 ⚬ Backend: Python
 ⚬ Database: MySQL
-⚬ API: Google Maps and Twilio
+⚬ API: Google Maps, fastAPI and Twilio
 ⚬ AIML: PyTorch, NLTK and XGB
 ⚬ Blockchain: Cryptographic Hash Mapping
